@@ -1,0 +1,1375 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HappenStance 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-29 08:37+0100\n"
+"PO-Revision-Date: 2015-10-07 09:29+0100\n"
+"Last-Translator: FhyAtti <attila@farkashazy.hu>\n"
+"Language-Team: Tomas Toman\n"
+"Language: Hungarian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: hu_HU\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: 404.php:9 search.php:44
+msgid "Nothing Found"
+msgstr "Nincs találat"
+
+#: 404.php:13
+msgid ""
+"Apologies, but no results were found for your request. Perhaps searching "
+"will help you to find a related content."
+msgstr ""
+"A kért oldal nem található. Próbálkozzon kereséssel vagy térjen vissza a "
+"kezdőlapra!"
+
+#: archive.php:11
+#, php-format
+msgid "Daily Archive: %s"
+msgstr "Napi archívum: %s"
+
+#: archive.php:13
+#, php-format
+msgid "Monthly Archive: %s"
+msgstr "Havi archívum: %s"
+
+#: archive.php:15
+#, php-format
+msgid "Yearly Archive: %s"
+msgstr "Éves archívum: %s"
+
+#: archive.php:17
+msgid "Archive"
+msgstr "Archívum"
+
+#: author.php:11
+#, php-format
+msgid "Author Archive: %s"
+msgstr "Szerző archívuma: %s"
+
+#: class-tgm-plugin-activation.php:156
+msgid "Install Required Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:157 functions.php:618
+#, fuzzy
+msgid "Install Plugins"
+msgstr "Ajánlott bővítmények"
+
+#: class-tgm-plugin-activation.php:158 functions.php:622
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:159
+msgid "Something went wrong."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:170
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:171
+msgid "Return to the dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:172 class-tgm-plugin-activation.php:1837
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:173 class-tgm-plugin-activation.php:1535
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:174
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:175
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1083
+msgid "External Link"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1088
+msgid "Private Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1091
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1095
+msgid "WordPress Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1098
+msgid "Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1098
+msgid "Recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1101
+msgid "Not Installed"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1103
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1273
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1289
+msgid "Plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1290
+msgid "Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1291
+msgid "Type"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1292
+msgid "Status"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1310
+msgid "Install"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1311
+msgid "Activate"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1820
+msgid "Install package not available."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1821
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1822
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1823
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1824
+msgid "Plugin install failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1825
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1836
+msgid "Plugin activation failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1946
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1947
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1947 class-tgm-plugin-activation.php:1956
+msgid "Show Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1947 class-tgm-plugin-activation.php:1956
+msgid "Hide Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1948
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1949
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1953
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1954
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1955
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1957
+msgid "All installations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2049
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: comments.php:21 content-archives-audio.php:22 content-archives-image.php:21
+#: content-archives-standard.php:24 content-archives-status.php:21
+#: content-archives-video.php:22 content-grid-audio.php:26
+#: content-grid-standard.php:28 content-grid-status.php:25
+#: content-grid-video.php:23 single.php:28
+#: functions/fe/widget-posts-column.php:115
+#: functions/fe/widget-posts-column.php:131
+#: functions/fe/widget-posts-list.php:113
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 hozzászólás"
+msgstr[1] "%1$ hozzászólás"
+
+#: comments.php:30
+msgid "&larr; Older Comments"
+msgstr "&larr; Régebbi hozzászólások"
+
+#: comments.php:31
+msgid "Newer Comments &rarr;"
+msgstr "Újabb hozzászólások &rarr;"
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr "Hozzászólások lezárva."
+
+#: comments.php:42
+msgid "Your name"
+msgstr "Név"
+
+#: comments.php:43
+msgid "Website"
+msgstr "Weblap"
+
+#: comments.php:44
+msgid "Comment..."
+msgstr "Hozzászólás..."
+
+#: comments.php:48
+msgid "Leave a Comment"
+msgstr "Írj hozzászólást"
+
+#: functions.php:164
+#, fuzzy
+msgid "Header Slideshow"
+msgstr "Fejléc beállításai"
+
+#: functions.php:176
+msgid "Insert here a Slideshow ID to display a slideshow in header."
+msgstr ""
+
+#: functions.php:218
+msgid "Video Thumbnail"
+msgstr ""
+
+#: functions.php:230
+msgid "Insert here the full URL address of the Video Thumbnail."
+msgstr ""
+
+#: functions.php:285
+msgid "Main Header Menu"
+msgstr "Főmenü"
+
+#: functions.php:286
+msgid "Social Networks Links"
+msgstr ""
+
+#: functions.php:287
+msgid "Carousel Menu"
+msgstr ""
+
+#: functions.php:299
+msgid "Right Sidebar"
+msgstr "Jobb oldalsáv"
+
+#: functions.php:301
+msgid "Right sidebar which appears on all posts and pages."
+msgstr "A minden bejegyzésen és oldalon megjelenő jobb oldalsáv."
+
+#: functions.php:308
+msgid "Footer left widget area"
+msgstr "Lábléc bal widget terület"
+
+#: functions.php:310
+msgid "Left column with widgets in footer."
+msgstr "A lábléc bal hasábjában megjelenő widgetek."
+
+#: functions.php:317
+msgid "Footer middle widget area"
+msgstr "Lábléc középső widget terület"
+
+#: functions.php:319
+msgid "Middle column with widgets in footer."
+msgstr "A lábléc középső hasábjában megjelenő widgetek."
+
+#: functions.php:326
+msgid "Footer right widget area"
+msgstr "Lábléc jobb widget terület"
+
+#: functions.php:328
+msgid "Right column with widgets in footer."
+msgstr "A lábléc jobb hasábjában megjelenő widgetek."
+
+#: functions.php:335
+msgid "Footer notices"
+msgstr "Lábléc jegyzet"
+
+#: functions.php:337
+msgid ""
+"The line for copyright and other notices below the footer widget areas. "
+"Insert here one Text widget. The \"Title\" field at this widget should stay "
+"empty."
+msgstr ""
+"Ez a sor jogi és egyéb megjegyzések megjelenítésére való a lábléc widget "
+"terület alatt. Ide egy szövegdoboz widgetet tudsz beszúrni. A widget \"Cím\" "
+"mezőjét üresen kell hagyni."
+
+#: functions.php:344
+msgid "Homepage slideshow"
+msgstr ""
+
+#: functions.php:346
+msgid ""
+"The area for Cyclone Slider Widget which displays a slideshow on your "
+"homepage."
+msgstr ""
+
+#: functions.php:374
+msgid "Read more"
+msgstr "Tovább"
+
+#: functions.php:421
+msgid "Post navigation"
+msgstr "További bejegyzések"
+
+#: functions.php:429 search.php:32
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:462
+msgid "&larr; Previous"
+msgstr "&larr; Előző"
+
+#: functions.php:430 search.php:33
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:465
+msgid "Next &rarr;"
+msgstr "Következő &rarr;"
+
+#: functions.php:452
+msgid "&larr; Previous post"
+msgstr "&larr; Előző bejegyzés"
+
+#: functions.php:454
+msgid "Next post &rarr;"
+msgstr "Következő bejegyzés &rarr;"
+
+#: functions.php:472
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:472
+msgid "(Edit)"
+msgstr "(Szerkesztés)"
+
+#: functions.php:485
+msgid "(Post author)"
+msgstr "(Szerző)"
+
+#: functions.php:491
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s - %2$s"
+
+#: functions.php:497
+msgid "Your comment is awaiting moderation."
+msgstr "A hozzászólás moderálásra vár."
+
+#: functions.php:503
+msgid "Reply"
+msgstr "Válasz"
+
+#: functions.php:505 page.php:17 single.php:41
+#: template-full-width-without-sharing.php:18 template-full-width.php:18
+#: template-landing-page.php:17 template-sitemap.php:18
+#: template-without-sharing.php:18 template-without-title.php:19
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: functions.php:617
+msgid "Install Recommended Plugins"
+msgstr ""
+
+#: functions.php:619
+#, php-format
+msgid ""
+"The %1$s plugin is required for this theme. Click on the big blue button "
+"below to install and activate %1$s."
+msgstr ""
+
+#: functions.php:620
+#, php-format
+msgid ""
+"The %1$s is installed but currently inactive. Please go to the <a href=\"%2$s"
+"\">plugin administration page</a> page to activate it."
+msgstr ""
+
+#: functions.php:621
+#, php-format
+msgid "Install %s Now"
+msgstr ""
+
+#: functions.php:623
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:624
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. <a href=\"%2$s\"><strong>Click here to "
+"begin the installation process</strong></a>. You may be asked for FTP "
+"credentials based on your server setup."
+msgstr ""
+
+#: functions.php:625
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+
+#: functions.php:626
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. That plugin is currently inactive, so "
+"please go to the <a href=\"%2$s\">plugin administration page</a> to activate "
+"it."
+msgstr ""
+
+#: functions.php:627
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+
+#: functions.php:628
+msgid "Return to Recommended Plugins Installer"
+msgstr ""
+
+#: functions.php:639
+#, fuzzy
+msgid "HappenStance"
+msgstr "A HappenStance-ről"
+
+#: page.php:16 single.php:40 template-full-width-without-sharing.php:17
+#: template-full-width.php:17 template-landing-page.php:16
+#: template-without-sharing.php:17 template-without-title.php:18
+msgid "Pages:"
+msgstr "Oldalak: "
+
+#: search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Keresési eredmények – %s"
+
+#: search.php:13
+msgid "Number of Results: "
+msgstr "Találatok száma: "
+
+#: search.php:24
+msgid "Search results navigation"
+msgstr "További találatok"
+
+#: search.php:47
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr "A keresett kifejezés nem található. Próbálkozzon más kifejezéssel!"
+
+#: searchform.php:9
+msgid "Search here..."
+msgstr "Keresés..."
+
+#: tag.php:10
+#, php-format
+msgid "Tag Archive: %s"
+msgstr "Tag archívum: %s"
+
+#: cycloneslider/dark/slider.php:43
+msgid "View Larger Image"
+msgstr ""
+
+#: cycloneslider/dark/slider.php:46 cycloneslider/dark/slider.php:48
+msgid "Learn More"
+msgstr ""
+
+#: cycloneslider/dark/slider.php:64 cycloneslider/default/slider.php:62
+#: cycloneslider/default/slider.php:66 cycloneslider/default/slider.php:70
+#: cycloneslider/standard/slider.php:70
+msgid "Slide type not supported."
+msgstr ""
+
+#: functions/be/fw-options.php:1488
+msgid "settings reset."
+msgstr "beállítás törölve."
+
+#: functions/be/fw-options.php:1526
+msgid "Save all changes"
+msgstr "Módosítások mentése"
+
+#: functions/be/fw-options.php:1532
+msgid "Reset all settings"
+msgstr "Minden beállítás törlése"
+
+#: functions/be/fw-options.php:1557 functions/be/fw-options.php:1564
+msgid "Upload Image"
+msgstr "Kép feltöltése"
+
+#: functions/be/fw-setup.php:16
+msgid "Theme Options"
+msgstr "Sablon beállítások"
+
+#: functions/fe/google-map-shortcode.php:100
+msgid "No location found for the entered address."
+msgstr ""
+
+#: functions/fe/google-map-shortcode.php:102
+msgid "Invalid request. Did you enter an address?"
+msgstr ""
+
+#: functions/fe/google-map-shortcode.php:104
+msgid ""
+"Something went wrong while retrieving your map, please ensure you have "
+"entered the short code correctly."
+msgstr ""
+
+#: functions/fe/google-map-shortcode.php:107
+msgid "Unable to contact Google API service."
+msgstr ""
+
+#: functions/fe/widget-facebook.php:12
+msgid "Displays Facebook Like Box."
+msgstr ""
+
+#: functions/fe/widget-facebook.php:14
+msgid "HappenStance Facebook Like Box Widget"
+msgstr ""
+
+#: functions/fe/widget-facebook.php:56 functions/fe/widget-info-box.php:50
+#: functions/fe/widget-posts-column.php:41
+#: functions/fe/widget-posts-default.php:41
+#: functions/fe/widget-posts-grid.php:41 functions/fe/widget-posts-list.php:41
+#: functions/fe/widget-posts-slider.php:41
+#: functions/fe/widget-posts-thumbnail.php:41
+#: functions/fe/widget-twitter.php:39
+msgid "Title:"
+msgstr ""
+
+#: functions/fe/widget-facebook.php:63
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: functions/fe/widget-facebook.php:67
+msgid ""
+"Insert here the full URL of your Facebook Page that will be liked (example: "
+"http://www.facebook.com/FacebookDevelopers)."
+msgstr ""
+
+#: functions/fe/widget-facebook.php:73
+msgid "Like Box Height: (optional)"
+msgstr ""
+
+#: functions/fe/widget-facebook.php:77
+msgid ""
+"Insert here the height of Like Box. The value is in pixels, but in the field "
+"please write ONLY NUMBERS (without symbol \"px\")!"
+msgstr ""
+
+#: functions/fe/widget-facebook.php:83
+msgid "Show Faces:"
+msgstr ""
+
+#: functions/fe/widget-facebook.php:90
+msgid "Specify whether to display profile photos of people who like the page."
+msgstr ""
+
+#: functions/fe/widget-facebook.php:96
+msgid "Show Stream:"
+msgstr ""
+
+#: functions/fe/widget-facebook.php:103
+msgid "Specify whether to display a stream of the latest posts by the Page."
+msgstr ""
+
+#: functions/fe/widget-info-box.php:12
+msgid "Displays a box with your custom text and icon."
+msgstr ""
+
+#: functions/fe/widget-info-box.php:14
+#, fuzzy
+msgid "HappenStance Info-Box"
+msgstr "HappenStance beállítások"
+
+#: functions/fe/widget-info-box.php:40
+msgid "Icon:"
+msgstr ""
+
+#: functions/fe/widget-info-box.php:44
+msgid ""
+"Insert here the name of an icon (example: <strong>icon_calendar</strong>)."
+msgstr ""
+
+#: functions/fe/widget-info-box.php:57
+msgid "Text:"
+msgstr ""
+
+#: functions/fe/widget-posts-column.php:12
+msgid ""
+"Displays the latest posts from the selected category as a column with "
+"highlighted first post."
+msgstr ""
+
+#: functions/fe/widget-posts-column.php:14
+#, fuzzy
+msgid "HappenStance Posts-Column"
+msgstr "HappenStance beállítások"
+
+#: functions/fe/widget-posts-column.php:48
+#: functions/fe/widget-posts-default.php:48
+#: functions/fe/widget-posts-grid.php:48 functions/fe/widget-posts-list.php:48
+#: functions/fe/widget-posts-slider.php:48
+#: functions/fe/widget-posts-thumbnail.php:48
+msgid "Category:"
+msgstr ""
+
+#: functions/fe/widget-posts-column.php:58
+#: functions/fe/widget-posts-default.php:58
+#: functions/fe/widget-posts-grid.php:58 functions/fe/widget-posts-list.php:58
+#: functions/fe/widget-posts-slider.php:58
+#: functions/fe/widget-posts-thumbnail.php:58
+#, fuzzy
+msgid "Select a category of posts."
+msgstr ""
+"Kenyérszöveg (az oldalak és bejegyzések fő tartalmát képező alap szöveg) "
+"betűtípusának megadása."
+
+#: functions/fe/widget-posts-column.php:64
+#: functions/fe/widget-posts-default.php:64
+#: functions/fe/widget-posts-grid.php:64 functions/fe/widget-posts-list.php:64
+#: functions/fe/widget-posts-slider.php:64
+#: functions/fe/widget-posts-thumbnail.php:64
+#, fuzzy
+msgid "Number of posts:"
+msgstr "Találatok száma: "
+
+#: functions/fe/widget-posts-column.php:68
+#: functions/fe/widget-posts-default.php:68
+#: functions/fe/widget-posts-grid.php:68 functions/fe/widget-posts-list.php:68
+#: functions/fe/widget-posts-slider.php:68
+#: functions/fe/widget-posts-thumbnail.php:68
+msgid ""
+"Insert here the number of latest posts from the selected category which you "
+"want to display."
+msgstr ""
+
+#: functions/fe/widget-posts-default.php:12
+msgid ""
+"Displays the latest posts from the selected category in the default manner."
+msgstr ""
+
+#: functions/fe/widget-posts-default.php:14
+#, fuzzy
+msgid "HappenStance Posts-Default"
+msgstr "HappenStance beállítások"
+
+#: functions/fe/widget-posts-grid.php:12
+msgid "Displays the latest posts from the selected category as a grid."
+msgstr ""
+
+#: functions/fe/widget-posts-grid.php:14
+#, fuzzy
+msgid "HappenStance Posts-Grid"
+msgstr "HappenStance beállítások"
+
+#: functions/fe/widget-posts-list.php:12
+msgid ""
+"Displays the latest posts from the selected category as an unordered list "
+"with highlighted first post."
+msgstr ""
+
+#: functions/fe/widget-posts-list.php:14
+#, fuzzy
+msgid "HappenStance Posts-List"
+msgstr "HappenStance beállítások"
+
+#: functions/fe/widget-posts-slider.php:12
+msgid "Displays the latest posts from the selected category as a slider."
+msgstr ""
+
+#: functions/fe/widget-posts-slider.php:14
+#, fuzzy
+msgid "HappenStance Posts-Slider"
+msgstr "HappenStance beállítások"
+
+#: functions/fe/widget-posts-thumbnail.php:12
+msgid "Displays the latest posts from the selected category as the thumbnails."
+msgstr ""
+
+#: functions/fe/widget-posts-thumbnail.php:14
+#, fuzzy
+msgid "HappenStance Posts-Thumbnail"
+msgstr "HappenStance beállítások"
+
+#: functions/fe/widget-twitter.php:13
+msgid "Twitter widget by HappenStance"
+msgstr ""
+
+#: functions/fe/widget-twitter.php:15
+#, fuzzy
+msgid "HappenStance Twitter Widget"
+msgstr "HappenStance beállítások"
+
+#: functions/fe/widget-twitter.php:25
+msgid "Join us on Twitter"
+msgstr ""
+
+#: functions/fe/widget-twitter.php:46
+msgid "Twitter Username:"
+msgstr ""
+
+#: functions/fe/widget-twitter.php:50
+msgid "Insert your Twitter username. (ex: happenstance)."
+msgstr ""
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:19
+msgid ""
+"Display popular posts, recent posts, comments and tags in tabbed format."
+msgstr ""
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:21
+#, fuzzy
+msgid "HappenStance Tab Widget"
+msgstr "HappenStance beállítások"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:41
+msgid "Select Tabs"
+msgstr ""
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:46
+msgid "Popular Tab"
+msgstr ""
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:50
+msgid "Recent Tab"
+msgstr ""
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:54
+#, fuzzy
+msgid "Comments Tab"
+msgstr "1 hozzászólás"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:58
+msgid "Tags Tab"
+msgstr ""
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:63
+msgid "Tab Order"
+msgstr ""
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:69
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:193
+msgid "Popular"
+msgstr ""
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:73
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:194
+msgid "Recent"
+msgstr ""
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:77
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:195
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:314
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:367
+#, fuzzy
+msgid "Comments"
+msgstr "1 hozzászólás"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:81
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:196
+msgid "Tags"
+msgstr ""
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:86
+#, fuzzy
+msgid "Advanced Options"
+msgstr "HappenStance beállítások"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:92
+msgid "Allow pagination"
+msgstr ""
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:99
+#, fuzzy
+msgid "Number of posts to show:"
+msgstr "Találatok száma: "
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:108
+msgid "Show post thumbnails"
+msgstr ""
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:115
+msgid "Show post date"
+msgstr ""
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:122
+msgid "Show number of comments"
+msgstr ""
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:129
+msgid "Show post excerpt"
+msgstr ""
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:135
+#, fuzzy
+msgid "Excerpt length (words):"
+msgstr "Kivonat hossza"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:148
+msgid "Number of comments on Comments Tab:"
+msgstr ""
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:157
+msgid "Show avatars on Comments Tab"
+msgstr ""
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:314
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:367
+#, fuzzy
+msgid "No Comment"
+msgstr "1 hozzászólás"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:314
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:367
+#, fuzzy
+msgid "One Comment"
+msgstr "1 hozzászólás"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:426
+msgid "No comments yet."
+msgstr ""
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:449
+msgid "No tags created."
+msgstr ""
+
+#~ msgid ""
+#~ "If you would like to purchase the HappenStance Premium Version, you can "
+#~ "do so on <a href=\"http://www.tomastoman.cz/downloads/happenstance/\" "
+#~ "target=\"_blank\">Developers Official Website</a>."
+#~ msgstr ""
+#~ "A HappenStance Prémium verziót bármikor megvásárolhatod a <a href="
+#~ "\"http://www.tomastoman.cz/downloads/happenstance/\" target=\"_blank"
+#~ "\">hivatalos fejlesztői oldalon</a>!"
+
+#~ msgid ""
+#~ "First of all, I would like to thank you for choosing HappenStance! I "
+#~ "firmly believe that you will be satisfied with this theme. In case of any "
+#~ "problems or doubts, you can use the <a href=\"http://www.tomastoman.cz/"
+#~ "support\" target=\"_blank\">HappenStance Official Support</a> (in "
+#~ "English, German or Czech)."
+#~ msgstr ""
+#~ "Köszönöm, hogy a HappenStance sablont választottad! Őszintén remélem, "
+#~ "hogy elégedett leszel vele! Bármilyen probléma vagy kérdés esetén "
+#~ "használhatod a <a href=\"http://www.tomastoman.cz/support\" target="
+#~ "\"_blank\">HappenStance Hivatalos Támogatás</a> oldalt (angol, német és "
+#~ "cseh nyelven)."
+
+#~ msgid ""
+#~ "HappenStance is an easily customizable theme which can be used for your "
+#~ "Blog, Magazine, Business, eCommerce or Events website. It is a fully "
+#~ "responsive and Retina ready theme that allows for easy viewing on any "
+#~ "device."
+#~ msgstr ""
+#~ "A HappenStance egy könnyen egyénre szabható sablon, melyet blogokhoz, "
+#~ "magazinokhoz, vállalati és e-Commerce oldalakhoz, vagy események "
+#~ "weblapjához használhatsz. Ez a teljes mértékben reszponzív és Retina-"
+#~ "kijelzőre fejlesztett sablon minden eszközön könnyű olvasást tesz "
+#~ "lehetővé."
+
+#~ msgid ""
+#~ "Upload your own favicon image (16x16px) or directly insert its URL. You "
+#~ "can create your own favicon using <a href=\"http://www.favicon.cc/\" "
+#~ "target=\"_blank\">Favicon generator</a>."
+#~ msgstr ""
+#~ "Töltsd fel a saját ikonodat (16x16px) vagy add meg az URL-jét! Saját "
+#~ "ikont a <a href=\"http://www.favicon.cc/\" \n"
+#~ "target=\"_blank\">Favicon generator</a> szerkesztővel is készíthetsz."
+
+#~ msgid "Display Breadcrumb Navigation"
+#~ msgstr "Breadcrumb-alapú navigáció megjelenítése"
+
+#~ msgid ""
+#~ "Set the Breadcrumb Navigation to be visible or not. The Breadcrumb NavXT "
+#~ "plugin has to be installed for displaying it."
+#~ msgstr ""
+#~ "A Breadcrumb-alapú navigáció megjelenítésének vagy elrejtésének "
+#~ "beállítása. A megjelenítéshez a Breadcrumb NavXT bővítmény telepítése "
+#~ "szükséges!"
+
+#~ msgid "Display"
+#~ msgstr "Megjelenítés"
+
+#~ msgid "Hide"
+#~ msgstr "Elrejtés"
+
+#~ msgid "Display Scroll-top Button"
+#~ msgstr "Oldal tetejére görgetés nyíl megjelenítése"
+
+#~ msgid "Set the scroll-top button to be visible or not."
+#~ msgstr ""
+#~ "Oldal tetejére görgetés nyíl megjelenítésének vagy elrejtésének "
+#~ "beállítása."
+
+#~ msgid "Background Settings (for Boxed layout)"
+#~ msgstr "Háttér beállítása (dobozos elrendezéshez)"
+
+#~ msgid "Background Pattern"
+#~ msgstr "Háttér mintázata"
+
+#~ msgid ""
+#~ "Set the main background pattern (hatches) to be visible or not. This "
+#~ "option works only in the Boxed layout style."
+#~ msgstr ""
+#~ "Háttér mintázat megjelenítésének vagy elrejtésének beállítása. Ez az "
+#~ "opció csak dobozos elrendezés esetén működik.\n"
+
+#~ msgid "Background Pattern Opacity"
+#~ msgstr "Háttér mintázat áttetszősége"
+
+#~ msgid ""
+#~ "Select transparency of the main background pattern (10 = greatest "
+#~ "transparency, 100 = opaque background pattern). This option works only in "
+#~ "the Boxed layout style."
+#~ msgstr ""
+#~ "Háttér mintázat áttetszőségének beállítása (10 = leghalványabb, 100 = "
+#~ "legerősebb).  Ez az opció csak dobozos elrendezés esetén működik."
+
+#~ msgid "Default"
+#~ msgstr "Alapértelmezett"
+
+#~ msgid "Display Shadow"
+#~ msgstr "Árnyékolás megjelenítése"
+
+#~ msgid ""
+#~ "Set the main page container shadow to be visible or not. This option "
+#~ "works only in the Boxed layout."
+#~ msgstr ""
+#~ "Oldal tartalomsáv háttér árnyékolás megjelenítésének vagy elrejtésének "
+#~ "beállítása. Ez az opció csak dobozos elrendezés esetén működik."
+
+#~ msgid "Sidebar Settings"
+#~ msgstr "Oldalsáv beállításai"
+
+#~ msgid "Display Sidebar on Posts/Pages"
+#~ msgstr "Oldalsáv megjelenítése bejegyzésekben és oldalakon"
+
+#~ msgid ""
+#~ "Set the right sidebar to be visible or not on the single posts and pages."
+#~ msgstr ""
+#~ "Jobb oldalsáv bejegyzéseken és oldalakon való megjelenítésének vagy "
+#~ "elrejtésének beállítása."
+
+#~ msgid "Display Sidebar on Archives"
+#~ msgstr "Oldalsáv megjelenítése az archívumban"
+
+#~ msgid ""
+#~ "Set the right sidebar to be visible or not on the archive pages "
+#~ "(including all archives, homepage and search results)."
+#~ msgstr ""
+#~ "Jobb oldalsáv megjelenítésének vagy elrejtésének beállítása az "
+#~ "archívumban (minden archívum és kereső találati oldalon, valamint a "
+#~ "kezdőlapon)."
+
+#~ msgid "Display Header Image"
+#~ msgstr "Fejléckép megjelenítése"
+
+#~ msgid ""
+#~ "Set the <a href=\"themes.php?page=custom-header\">Header Image</a> to be "
+#~ "visible on all pages or only on the homepage."
+#~ msgstr ""
+#~ "A <a href=\"themes.php?page=custom-header\">fejléckép</a> csak a "
+#~ "kezdőlapon vagy minden oldalon való megjelenítése."
+
+#~ msgid "Everywhere"
+#~ msgstr "Minden oldalon"
+
+#~ msgid "Only on Homepage"
+#~ msgstr "Csak a kezdőlapon"
+
+#~ msgid "Logo URL"
+#~ msgstr "Logo URL"
+
+#~ msgid ""
+#~ "Upload your own logo in .jpg, .gif or .png format or directly insert its "
+#~ "URL. The logo will automatically replace the Site Title."
+#~ msgstr ""
+#~ "Saját logó feltöltése .jpg, .gif vagy .png formátumban vagy közvetlen URL "
+#~ "megadása. A logo automatikusan lecseréli a honlap címének megjelenítését."
+
+#~ msgid "Display Site Description"
+#~ msgstr "Honlap leírás megjelenítése"
+
+#~ msgid "Set the Site Description to be visible or not in your header."
+#~ msgstr ""
+#~ "Honlap leírás fejlécben történő megjelenítésének vagy elrejtésének "
+#~ "beállítása."
+
+#~ msgid "Display Search Form"
+#~ msgstr "Kereső megjelenítése"
+
+#~ msgid "Set the header Search Form to be visible or not."
+#~ msgstr "Kereső megjelenítésének vagy elrejtésének beállítása."
+
+#~ msgid "Contact Information"
+#~ msgstr "Kapcsolati adatok\n"
+
+#~ msgid "Postal Address"
+#~ msgstr "Postacím"
+
+#~ msgid "Fill here your postal address to be displayed in header."
+#~ msgstr "Fejlécben megjelenítendő postacím megadása.\n"
+
+#~ msgid "Email Address"
+#~ msgstr "E-mail cím"
+
+#~ msgid "Fill here your email address to be displayed in header."
+#~ msgstr "Fejlécben megjelenítendő e-mail cím megadása."
+
+#~ msgid "Phone Number"
+#~ msgstr "Telefonszám"
+
+#~ msgid "Fill here your phone number to be displayed in header."
+#~ msgstr "Fejlécben megjelenítendő telefonszám megadása."
+
+#~ msgid "Skype Name"
+#~ msgstr "Skype azonosító"
+
+#~ msgid "Fill here your Skype name to be displayed in header."
+#~ msgstr "Fejlécben megjelenítendő Skype azonosító megadása."
+
+#~ msgid "Post Settings"
+#~ msgstr "Bejegyzések beállításai"
+
+#~ msgid "Display Featured Image on single posts"
+#~ msgstr "Kiemelt kép megjelenítése a bejegyzésekben"
+
+#~ msgid "Set the Featured Image to be visible or not on the single posts."
+#~ msgstr ""
+#~ "Kiemelt kép bejegyzéseken való megjelenítésének vagy elrejtésének "
+#~ "beállítása."
+
+#~ msgid "Display Meta Box on single posts"
+#~ msgstr "Bejegyzés adatok megjelenítése a bejegyzésekben"
+
+#~ msgid ""
+#~ "Set the Meta Box (with publish date, author, category and tags) to be "
+#~ "visible or not on the single posts."
+#~ msgstr ""
+#~ "Bejegyzés adatok (dátum, szerző, kategória és címkék) bejegyzéseken és "
+#~ "oldalakon való megjelenítésének vagy elrejtésének beállítása."
+
+#~ msgid "Next/Previous Post Navigation"
+#~ msgstr "Előző/Következő bejegyzés navigáció"
+
+#~ msgid ""
+#~ "This feature gives the possibility to easy navigate between the posts in "
+#~ "chronological order."
+#~ msgstr ""
+#~ "Ez az opció lehetővé teszi a bejegyzések közötti időrendben történő "
+#~ "navigációt."
+
+#~ msgid "Page Settings"
+#~ msgstr "Oldalak beállításai"
+
+#~ msgid "Display Featured Image on pages"
+#~ msgstr "Kiemelt kép megjelenítése az oldalakon\n"
+
+#~ msgid "Set the Featured Image to be visible or not on pages."
+#~ msgstr ""
+#~ "Kiemelt kép oldalakon való megjelenítésének vagy elrejtésének beállítása."
+
+#~ msgid "Post Entries Settings"
+#~ msgstr "Bejegyzés listák beállításai"
+
+#~ msgid "Post Entries Format"
+#~ msgstr "Bejegyzések megjelenítése"
+
+#~ msgid "Set the way how the post entries to be displayed."
+#~ msgstr "Bejegyzések megjelenítési stílusának beállítása."
+
+#~ msgid "One Column"
+#~ msgstr "Egy oszlop"
+
+#~ msgid "Grid - Masonry"
+#~ msgstr "Rács - Téglaszerű\n"
+
+#~ msgid "Display Meta Box on Post Entries"
+#~ msgstr "Bejegyzés adatok megjelenítése a listában"
+
+#~ msgid ""
+#~ "Set the Meta Box (with publish date, author, comments, category and tags) "
+#~ "to be visible or not on the post entries."
+#~ msgstr ""
+#~ "Bejegyzés adatok (dátum, szerző, kategória és címkék) találati lista "
+#~ "oldalakon való megjelenítésének vagy elrejtésének beállítása."
+
+#~ msgid "Content/Excerpt Displaying"
+#~ msgstr "Tartalom/Kivonat megjelenítése"
+
+#~ msgid ""
+#~ "Select whether you want to display the full content or the post excerpts "
+#~ "on your archive pages (including all archives, homepage and search "
+#~ "results)."
+#~ msgstr ""
+#~ "Teljes tartalom vagy bejegyzés kivonat megjelenítése az archívumban "
+#~ "(minden archívum és kereső találati oldalon, valamint a kezdőlapon)."
+
+#~ msgid "Excerpt"
+#~ msgstr "Kivonat"
+
+#~ msgid "Content"
+#~ msgstr "Tartalom"
+
+#~ msgid "Set here the number of words you wish to display in the excerpt."
+#~ msgstr "Kivonatban megjelenő szavak számának megadása."
+
+#~ msgid "Blog Page"
+#~ msgstr "Blog oldal"
+
+#~ msgid "Latest Posts section headline"
+#~ msgstr "Legutóbbi bejegyzés szekció fejléc"
+
+#~ msgid ""
+#~ "Fill here the headline of the Latest Posts section displayed on your Blog "
+#~ "page."
+#~ msgstr "Legutóbbi bejegyzés szekció fejléc szövegének megadása."
+
+#~ msgid "Font Settings"
+#~ msgstr "Betűtípus beállításai"
+
+#~ msgid "Body font"
+#~ msgstr "Kenyérszöveg betűtípusa\n"
+
+#~ msgid "Site Title font"
+#~ msgstr "Címsor betűtípusa"
+
+#~ msgid "Select a font for your Site Title in header."
+#~ msgstr "Címsor betűtípusának megadása."
+
+#~ msgid "Site Description font"
+#~ msgstr "Honlap leírás betűtípusa"
+
+#~ msgid "Select a font for your Site Description in header."
+#~ msgstr "Honlap leírás betűtípusának megadása."
+
+#~ msgid "Page/Post Headlines font"
+#~ msgstr "Oldal és bejegyzés fejléc betűtípusa"
+
+#~ msgid "Select a font for page/post headlines (h1 - h6)."
+#~ msgstr "Oldal és bejegyzés fejléc (h1 - h6) betűtípusának megadása."
+
+#~ msgid "Post Entry Headline font"
+#~ msgstr "Bejegyzés fejléc betűtípusa"
+
+#~ msgid ""
+#~ "Select a font for Post Entry headlines displayed on index/archive/search "
+#~ "pages."
+#~ msgstr ""
+#~ "Bejegyzés fejléc betűtípusának megadása index, archívum és keresés "
+#~ "találati oldalakhoz."
+
+#~ msgid "Sidebar/Footer Widget Headlines font"
+#~ msgstr "Oldalsáv és lábléc widget fejlés betűtípusa"
+
+#~ msgid "Select a font for Sidebar/Footer Widget headlines."
+#~ msgstr "Oldalsáv és lábléc widgetek fejléc betűtípusának megadása."
+
+#~ msgid "Main Header Menu font"
+#~ msgstr "Főmenü betűtípusa"
+
+#~ msgid "Select a font for your Main Header Menu."
+#~ msgstr "Főmenü betűtípusának megadása."
+
+#~ msgid "Other Settings"
+#~ msgstr "Egyéb beállítások"
+
+#~ msgid ""
+#~ "OPTIONS: <a href=\"widgets.php\">Widgets</a> | <a href=\"nav-menus.php"
+#~ "\">Menus</a> | <a href=\"themes.php?page=custom-header\">Header Image</a> "
+#~ "| <a href=\"themes.php?page=custom-background\">Background Settings</a>"
+#~ msgstr ""
+#~ "BEÁLLÍTÁSOK: <a href=\"widgets.php\">Widgetek</a> | <a href=\"nav-menus."
+#~ "php\">Menük</a> | <a href=\"themes.php?page=custom-header\">Fejléc kép</"
+#~ "a> | <a href=\"themes.php?page=custom-background\">Háttér</a>"
+
+#~ msgid "Custom CSS"
+#~ msgstr "Egyedi CSS"
+
+#~ msgid ""
+#~ "Fill here your own cascading style sheet information (CSS).<br />Example: "
+#~ "#content p {font-size: 15px;} #sidebar p {font-size: 14px;}"
+#~ msgstr ""
+#~ "Egyedi stíluslap (CSS) paraméterek.<br />Példa: #content p {font-size: "
+#~ "15px;} #sidebar p {font-size: 14px;}"
+
+#~ msgid ""
+#~ "This theme recommends the following plugins:<br /><br />\n"
+#~ "    1.) <a href=\"https://wordpress.org/plugins/breadcrumb-navxt/\" "
+#~ "target=\"_blank\">Breadcrumb NavXT</a><br />\n"
+#~ "    2.) <a href=\"https://wordpress.org/plugins/the-events-calendar/\" "
+#~ "target=\"_blank\">The Events Calendar</a>"
+#~ msgstr ""
+#~ "Ehhez a sablonhoz a következő bővítmények telepítése ajánlott:<br /><br /"
+#~ ">\n"
+#~ "    1.) <a href=\"https://wordpress.org/plugins/breadcrumb-navxt/\" "
+#~ "target=\"_blank\">Breadcrumb NavXT</a><br />\n"
+#~ "    2.) <a href=\"https://wordpress.org/plugins/the-events-calendar/\" "
+#~ "target=\"_blank\">The Events Calendar</a>"
+
+#~ msgid "Get HappenStance Premium Version"
+#~ msgstr "Váltás HappenStance Prémium verzióra\n"
+
+#~ msgid "<i class=\"icon_house\" aria-hidden=\"true\"></i>Welcome"
+#~ msgstr "<i class=\"icon_house\" aria-hidden=\"true\"></i>Üdvözlet"
+
+#~ msgid "<i class=\"icon_key\" aria-hidden=\"true\"></i>General Settings"
+#~ msgstr ""
+#~ "<i class=\"icon_key\" aria-hidden=\"true\"></i>Általános beállítások"
+
+#~ msgid "<i class=\"icon_cog\" aria-hidden=\"true\"></i>Header"
+#~ msgstr "<i class=\"icon_cog\" aria-hidden=\"true\"></i>Fejléc"
+
+#~ msgid "<i class=\"icon_documents\" aria-hidden=\"true\"></i>Posts/Pages"
+#~ msgstr ""
+#~ "<i class=\"icon_documents\" aria-hidden=\"true\"></i>Bejegyzések/Oldalak"
+
+#~ msgid "<i class=\"icon_tags\" aria-hidden=\"true\"></i>Post Entries"
+#~ msgstr "<i class=\"icon_tags\" aria-hidden=\"true\"></i>Bejegyzés listák"
+
+#~ msgid "<i class=\"icon_pens\" aria-hidden=\"true\"></i>Fonts"
+#~ msgstr "<i class=\"icon_pens\" aria-hidden=\"true\"></i>Betűtípusok"
+
+#~ msgid "<i class=\"icon_tools\" aria-hidden=\"true\"></i>Other Settings"
+#~ msgstr "<i class=\"icon_tools\" aria-hidden=\"true\"></i>Egyéb beállítások"
+
+#~ msgid ""
+#~ "<i class=\"icon_folder-add\" aria-hidden=\"true\"></i>Suggested Plugins"
+#~ msgstr ""
+#~ "<i class=\"icon_folder-add\" aria-hidden=\"true\"></i>Ajánlott bővítmények"
+
+#~ msgid "<i class=\"icon_cart\" aria-hidden=\"true\"></i>GET PREMIUM"
+#~ msgstr "<i class=\"icon_cart\" aria-hidden=\"true\"></i>PRÉMIUM VERZIÓ"
+
+#~ msgid "Welcome to HappenStance!"
+#~ msgstr "Üdvözöl a HappenStance!"
+
+#~ msgid "General Settings"
+#~ msgstr "Általános beállítások"
+
+#~ msgid "Color Scheme"
+#~ msgstr "Színsémák"
+
+#~ msgid ""
+#~ "Select one of the preconfigured Color Schemes. In Premium version, you "
+#~ "can build your custom color scheme."
+#~ msgstr ""
+#~ "Válassz egyet a kész színsémákból. A prémium verzióban magad is "
+#~ "összeállíthatsz színsémát."
+
+#~ msgid "Blue (default)"
+#~ msgstr "Kék (alapértelmezett)"
+
+#~ msgid "Gray"
+#~ msgstr "Szürke"
+
+#~ msgid "Green"
+#~ msgstr "Zöld"
+
+#~ msgid "Purple"
+#~ msgstr "Lila"
+
+#~ msgid "Layout Style"
+#~ msgstr "Elrendezés"
+
+#~ msgid "Choose the layout style of your website."
+#~ msgstr "Válaszd ki az oldal elrendezését"
+
+#~ msgid "Boxed"
+#~ msgstr "Dobozos"
+
+#~ msgid "Wide"
+#~ msgstr "Széles"
+
+#~ msgid "Favicon URL"
+#~ msgstr "Oldal ikon URL"
+
+#~ msgid "Latest Posts"
+#~ msgstr "Legutóbbi bejegyzések"
+
+#~ msgid "settings saved."
+#~ msgstr "beállítás mentve."
+
+#~ msgid "Documentation"
+#~ msgstr "Dokumentáció"
+
+#~ msgid "Support"
+#~ msgstr "Támogatás"
+
+#~ msgid "Get Premium Version"
+#~ msgstr "Prémium verzió"

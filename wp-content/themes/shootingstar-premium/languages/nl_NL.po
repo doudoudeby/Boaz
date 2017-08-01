@@ -1,0 +1,949 @@
+# Translation of the WordPress theme ShootingStar 2.0 by Tomas Toman.
+# This file is distributed under the same license as the ShootingStar package.
+# Tomas Toman <webdesign@tomastoman.cz>, 2015.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ShootingStar 2.0\n"
+"POT-Creation-Date: 2015-01-06 08:41+0100\n"
+"PO-Revision-Date: 2015-09-17 10:45+0100\n"
+"Last-Translator: Alain J. Baudrez <a.baudrez@gmail.com>\n"
+"Language-Team: Dutch Team\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: 404.php:10 search.php:52
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: 404.php:16
+msgid ""
+"Apologies, but no results were found for your request. Perhaps searching "
+"will help you to find a related content."
+msgstr ""
+"Onze verontschuldigingen, maar uw verzoek leverde geen resultaat op. "
+"Wellicht kan de zoekopdracht u verder helpen."
+
+#: archive.php:13
+#, php-format
+msgid "Daily Archive: %s"
+msgstr "Dagelijks archief: %s"
+
+#: archive.php:15
+#, php-format
+msgid "Monthly Archive: %s"
+msgstr "Maandelijks archief: %s"
+
+#: archive.php:17
+#, php-format
+msgid "Yearly Archive: %s"
+msgstr "Jaarlijks archief: %s"
+
+#: archive.php:19
+msgid "Archive"
+msgstr "Archief"
+
+#: author.php:13
+#, php-format
+msgid "Author Archive: %s"
+msgstr "Auteur archief: %s"
+
+#: class-tgm-plugin-activation.php:156
+msgid "Install Required Plugins"
+msgstr "Installeer vereiste plugins"
+
+#: class-tgm-plugin-activation.php:157 functions.php:606
+msgid "Install Plugins"
+msgstr "Installeer plug-ins"
+
+#: class-tgm-plugin-activation.php:158 functions.php:610
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Plug-in %s aan het installeren"
+
+#: class-tgm-plugin-activation.php:159
+msgid "Something went wrong."
+msgstr "Er liep iets mis."
+
+#: class-tgm-plugin-activation.php:170
+msgid "Return to Required Plugins Installer"
+msgstr "Terug naar de verplichte plug-in installer"
+
+#: class-tgm-plugin-activation.php:171
+msgid "Return to the dashboard"
+msgstr "Terug naar het dashboard"
+
+#: class-tgm-plugin-activation.php:172 class-tgm-plugin-activation.php:1838
+msgid "Plugin activated successfully."
+msgstr "Plug-in met succes geactiveerd."
+
+#: class-tgm-plugin-activation.php:173 class-tgm-plugin-activation.php:1536
+msgid "The following plugin was activated successfully:"
+msgstr "Deze plug-in werd met succes geactiveerd:"
+
+#: class-tgm-plugin-activation.php:174
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plug-ins geïnstalleerd en geactiveerd.  %1$s"
+
+#: class-tgm-plugin-activation.php:175
+msgid "Dismiss this notice"
+msgstr "Negeer deze boodschap"
+
+#: class-tgm-plugin-activation.php:1084
+msgid "External Link"
+msgstr "Externe link"
+
+#: class-tgm-plugin-activation.php:1089
+msgid "Private Repository"
+msgstr "Private softwarebron"
+
+#: class-tgm-plugin-activation.php:1092
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: class-tgm-plugin-activation.php:1096
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: class-tgm-plugin-activation.php:1099
+msgid "Required"
+msgstr "Vereist"
+
+#: class-tgm-plugin-activation.php:1099
+msgid "Recommended"
+msgstr "Aangeraden"
+
+#: class-tgm-plugin-activation.php:1102
+msgid "Not Installed"
+msgstr "Niet geïnstalleerd "
+
+#: class-tgm-plugin-activation.php:1104
+msgid "Installed But Not Activated"
+msgstr "Geïnstalleerd maar niet geactiveerd"
+
+#: class-tgm-plugin-activation.php:1274
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Geen plug-ins te installeren of te activeren. <a href=\"%1$s\" title=\"Terug "
+"naar het Dashboard\">Terug naar het dashboard</a>"
+
+#: class-tgm-plugin-activation.php:1290
+msgid "Plugin"
+msgstr "Plug-in"
+
+#: class-tgm-plugin-activation.php:1291
+msgid "Source"
+msgstr "Bron"
+
+#: class-tgm-plugin-activation.php:1292
+msgid "Type"
+msgstr "Type"
+
+#: class-tgm-plugin-activation.php:1293
+msgid "Status"
+msgstr "Status"
+
+#: class-tgm-plugin-activation.php:1311
+msgid "Install"
+msgstr "Installeer"
+
+#: class-tgm-plugin-activation.php:1312
+msgid "Activate"
+msgstr "Activeer"
+
+#: class-tgm-plugin-activation.php:1821
+msgid "Install package not available."
+msgstr "Installatie pakket niet beschikbaar."
+
+#: class-tgm-plugin-activation.php:1822
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Binnenhalen installatie pakket van <span class=\"code\">%s</span>&#8230;"
+
+#: class-tgm-plugin-activation.php:1823
+msgid "Unpacking the package&#8230;"
+msgstr "Pakket uitpakken&#8230;"
+
+#: class-tgm-plugin-activation.php:1824
+msgid "Installing the plugin&#8230;"
+msgstr "Plug-in installeren&#8230;"
+
+#: class-tgm-plugin-activation.php:1825
+msgid "Plugin install failed."
+msgstr "Installatie plug-in mislukt."
+
+#: class-tgm-plugin-activation.php:1826
+msgid "Plugin installed successfully."
+msgstr "Plug-in succesvol geïnstalleerd."
+
+#: class-tgm-plugin-activation.php:1837
+msgid "Plugin activation failed."
+msgstr "Plug-in activatie mislukt."
+
+#: class-tgm-plugin-activation.php:1947
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Het installatie en activatie proces wordt gestart. Dit proces kan een tijdje "
+"duren bij bepaalde hosts, dus graag wat geduld."
+
+#: class-tgm-plugin-activation.php:1948
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s met succes geïnstalleerd en geactiveerd."
+
+#: class-tgm-plugin-activation.php:1948 class-tgm-plugin-activation.php:1957
+msgid "Show Details"
+msgstr "Toon details"
+
+#: class-tgm-plugin-activation.php:1948 class-tgm-plugin-activation.php:1957
+msgid "Hide Details"
+msgstr "Verberg details"
+
+#: class-tgm-plugin-activation.php:1949
+msgid "All installations and activations have been completed."
+msgstr "Alle installaties en activaties zijn afgelopen."
+
+#: class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installatie en activatie van plug-in %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:1954
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Het installatieproces wordt gestart. Dit proces kan een tijdje duren bij "
+"bepaalde hosts, dus graag wat geduld."
+
+#: class-tgm-plugin-activation.php:1955
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Een fout gebeurde tijdens de installatie van %1$s: <strong>%2$s</strong>."
+
+#: class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "De installatie van %1$s mislukte."
+
+#: class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s met succes geïnstalleerd.."
+
+#: class-tgm-plugin-activation.php:1958
+msgid "All installations have been completed."
+msgstr "Alle installaties zijn afgelopen."
+
+#: class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installatie van plug-in %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:2050
+msgid "Return to the Dashboard"
+msgstr "Terug naar het dashboard"
+
+#: comments.php:17 content-archives-audio.php:26 content-archives-image.php:30
+#: content-archives-standard.php:28 content-archives-status.php:25
+#: content-archives-video.php:27 single.php:32
+#: functions/fe/widget-posts-column.php:116
+#: functions/fe/widget-posts-column.php:133
+#: functions/fe/widget-posts-grid.php:116
+#: functions/fe/widget-posts-list.php:114
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Commentaar"
+msgstr[1] "%1$s Commentaren"
+
+#: comments.php:26
+msgid "&larr; Older Comments"
+msgstr "&larr; Oudere Commentaren"
+
+#: comments.php:27
+msgid "Newer Comments &rarr;"
+msgstr "Nieuwere Commentaren &rarr;"
+
+#: comments.php:33
+msgid "Comments are closed."
+msgstr "Commentaren zijn uitgezet."
+
+#: comments.php:38
+msgid "Your name"
+msgstr "Uw naam"
+
+#: comments.php:39
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:40
+msgid "Comment..."
+msgstr "Commentaar..."
+
+#: comments.php:44
+msgid "Leave a Comment"
+msgstr "Laat commentaar achter"
+
+#: functions.php:106
+msgid "<p>Loading...</p>"
+msgstr "<p>Aan het laden..</p>"
+
+#: functions.php:107
+msgid "<p>No further posts.</p>"
+msgstr "<p>Geen verdere berichten.</p>"
+
+#: functions.php:169
+msgid "Header Slideshow"
+msgstr "Header diashow"
+
+#: functions.php:181
+msgid "Insert here a Slideshow ID to display a slideshow in header."
+msgstr "Voer de Slideshow ID om een diavoorstelling in header te geven."
+
+#: functions.php:223
+msgid "Video Thumbnail"
+msgstr "Videominiatuur"
+
+#: functions.php:235
+msgid "Insert here the full URL address of the Video Thumbnail."
+msgstr "Voer de volledige URL van videominiatuur."
+
+#: functions.php:292
+msgid "Main Header Menu"
+msgstr "Belangrijkste koptekst menu"
+
+#: functions.php:293
+msgid "Social Networks Links"
+msgstr "Sociale Netwerken Links"
+
+#: functions.php:294
+msgid "Carousel Menu"
+msgstr "Carrousel Menu"
+
+#: functions.php:306
+msgid "Right Sidebar"
+msgstr "Rechter zijbalk"
+
+#: functions.php:308
+msgid "Right sidebar which appears on all posts and pages."
+msgstr "Rechter zijpaneel dat bij alle berichten en pagina's verschijnt."
+
+#: functions.php:315
+msgid "Footer left widget area"
+msgstr "Voettekst linker widget gebied"
+
+#: functions.php:317
+msgid "Left column with widgets in footer."
+msgstr "Linker kolom met widget in de voettekst."
+
+#: functions.php:324
+msgid "Footer middle widget area"
+msgstr "Voettekst middelste widget gebied"
+
+#: functions.php:326
+msgid "Middle column with widgets in footer."
+msgstr "Middelste kolom met widgets in de voettekst."
+
+#: functions.php:333
+msgid "Footer right widget area"
+msgstr "Voettekst rechter widget gebied"
+
+#: functions.php:335
+msgid "Right column with widgets in footer."
+msgstr "Rechter kolom met widgets in de voettekst."
+
+#: functions.php:342
+msgid "Footer notices"
+msgstr "Voettekst notities"
+
+#: functions.php:344
+msgid ""
+"The line for copyright and other notices below the footer widget areas. "
+"Insert here one Text widget. The \"Title\" field at this widget should stay "
+"empty."
+msgstr ""
+"Deze lijn is voor copyright en andere notities onder het voettekst widget "
+"gebied. Voeg hier één tekst widget in. Het \"Title\" veld van deze widget "
+"dient leeg te blijven."
+
+#: functions.php:351
+msgid "Homepage slideshow"
+msgstr "Homepagina diashow"
+
+#: functions.php:353
+msgid ""
+"The area for Cyclone Slider Widget which displays a slideshow on your "
+"homepage."
+msgstr ""
+"De ruimte voor Cyclone Slider Widget die een slideshow op uw homepage laat "
+"zien."
+
+#: functions.php:381
+msgid "Read more"
+msgstr "Lees meer"
+
+#: functions.php:412
+msgid "Post navigation"
+msgstr "Bericht navigatie"
+
+#: functions.php:420 search.php:36
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:462
+msgid "&larr; Previous"
+msgstr "&larr; Vorige"
+
+#: functions.php:421 search.php:37
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:465
+msgid "Next &rarr;"
+msgstr "Volgende &rarr;"
+
+#: functions.php:444
+msgid "&larr; Previous post"
+msgstr "&larr; Vorig bericht"
+
+#: functions.php:446
+msgid "Next post &rarr;"
+msgstr "Volgend bericht &rarr;"
+
+#: functions.php:464
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:464
+msgid "(Edit)"
+msgstr "(Wijzig)"
+
+#: functions.php:477
+msgid "(Post author)"
+msgstr "(Auteur bericht)"
+
+#: functions.php:483
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s op %2$s"
+
+#: functions.php:489
+msgid "Your comment is awaiting moderation."
+msgstr "Uw commentaar wacht op goedkeuring."
+
+#: functions.php:495
+msgid "Reply"
+msgstr "Antwoord"
+
+#: functions.php:497 page.php:19 single.php:42
+#: template-full-width-without-sharing.php:20 template-full-width.php:20
+#: template-landing-page.php:20 template-sitemap.php:21
+#: template-without-sharing.php:20 template-without-title.php:21
+msgid "Edit"
+msgstr "Wijzig"
+
+#: functions.php:605
+msgid "Install Recommended Plugins"
+msgstr "Installeer aanbevolen plug-ins"
+
+#: functions.php:607
+#, php-format
+msgid ""
+"The %1$s plugin is required for this theme. Click on the big blue button "
+"below to install and activate %1$s."
+msgstr ""
+"De %1$s plug-in is vereist voor dit thema. Klik op de grote blauwe knop "
+"hieronder om %1$s te installeren en te activeren."
+
+#: functions.php:608
+#, php-format
+msgid ""
+"The %1$s is installed but currently inactive. Please go to the <a href=\"%2$s"
+"\">plugin administration page</a> page to activate it."
+msgstr ""
+"%1$s is geïnstalleerd maar momenteel niet actief. Ga naar de <a href=\"%2$s"
+"\">plug-in administratie page</a> pagina om het te activeren."
+
+#: functions.php:609
+#, php-format
+msgid "Install %s Now"
+msgstr "Installeen %s nu"
+
+#: functions.php:611
+msgid "Something went wrong with the plugin API."
+msgstr "Er liep iets fout met de plug-in API."
+
+#: functions.php:612
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. <a href=\"%2$s\"><strong>Click here to "
+"begin the installation process</strong></a>. You may be asked for FTP "
+"credentials based on your server setup."
+msgstr ""
+"Dit thema vereist de %1$s plug-in. <a href=\"%2$s\"><strong>Klik hier om het "
+"installatie proces te starten</strong></a>. U kan om uw FTP toegangsgevens "
+"gevraagd worden voor je server."
+
+#: functions.php:613
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+"Sorry, maar je hebt niet de correcte rechten om de %s plug-in te "
+"installeren. Contacteer de administrator van deze website voor help bij het "
+"installeren van de plug-in."
+
+#: functions.php:614
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. That plugin is currently inactive, so "
+"please go to the <a href=\"%2$s\">plugin administration page</a> to activate "
+"it."
+msgstr ""
+"Dit thema vereist de %1$s plug-in.Deze plug-in is momenteel niet actief, dus "
+"ga naar de <a href=\"%2$s\">plug-in administratie pagina</a> om het te "
+"activeren."
+
+#: functions.php:615
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+"Sorry, maar je hebt niet de correcte rechten om de %s plug-in te activeren. "
+"Contacteer de administrator van deze website voor help bij het activeren van "
+"de plug-in."
+
+#: functions.php:616
+msgid "Return to Recommended Plugins Installer"
+msgstr "Terug naar de aanbevolen plug-in installer"
+
+#: functions.php:627
+msgid "ShootingStar"
+msgstr "ShootingStar"
+
+#: search.php:12
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: search.php:18
+msgid "Number of Results: "
+msgstr "Aantal resultaten:"
+
+#: search.php:28
+msgid "Search results navigation"
+msgstr "Zoek resultaten navigatie"
+
+#: search.php:58
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Sorry, maar er waren geen treffers voor je zoek criterium. Probeer opnieuw "
+"met andere sleutelwoorden."
+
+#: searchform.php:9
+msgid "Search here..."
+msgstr "Zoek hier..."
+
+#: single.php:41
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: single.php:54
+msgid "About Author"
+msgstr "Over de auteur"
+
+#: tag.php:12
+#, php-format
+msgid "Tag Archive: %s"
+msgstr "Tag archief: %s"
+
+#: cycloneslider/dark/slider.php:43
+msgid "View Larger Image"
+msgstr "Bekijk grotere afbeelding"
+
+#: cycloneslider/dark/slider.php:46 cycloneslider/dark/slider.php:48
+msgid "Learn More"
+msgstr "Meer info"
+
+#: cycloneslider/dark/slider.php:64 cycloneslider/default/slider.php:62
+#: cycloneslider/default/slider.php:66 cycloneslider/default/slider.php:70
+#: cycloneslider/standard/slider.php:70
+msgid "Slide type not supported."
+msgstr "Soort glijbaan niet ondersteund."
+
+#: functions/be/fw-options.php:1434 functions/be/fw-options.php:1447
+#: functions/be/fw-setup.php:16
+msgid "Theme Options"
+msgstr "Thema Opties"
+
+#: functions/be/fw-options.php:1439
+msgid "settings saved."
+msgstr "instellingen opgeslagen."
+
+#: functions/be/fw-options.php:1440
+msgid "settings reset."
+msgstr "instellingen gereset."
+
+#: functions/be/fw-options.php:1456
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: functions/be/fw-options.php:1456
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: functions/be/fw-options.php:1477
+msgid "Save all changes"
+msgstr "Wijzigingen opslaan"
+
+#: functions/be/fw-options.php:1483
+msgid "Reset all settings"
+msgstr "Reset alle instellingen"
+
+#: functions/be/fw-options.php:1502 functions/be/fw-options.php:1509
+msgid "Upload Image"
+msgstr "Upload Afbeelding"
+
+#: functions/fe/google-map-shortcode.php:100
+msgid "No location found for the entered address."
+msgstr "Geen locatie gevonden voor het ingevoerde adres."
+
+#: functions/fe/google-map-shortcode.php:102
+msgid "Invalid request. Did you enter an address?"
+msgstr "Ongeldig verzoek. Heeft u een adres in te voeren?"
+
+#: functions/fe/google-map-shortcode.php:104
+msgid ""
+"Something went wrong while retrieving your map, please ensure you have "
+"entered the short code correctly."
+msgstr ""
+"Er is iets misgegaan bij het ophalen van je kaart, dan kunt u ervoor zorgen "
+"dat u de korte code correct hebt ingevoerd."
+
+#: functions/fe/google-map-shortcode.php:107
+msgid "Unable to contact Google API service."
+msgstr "Niet in staat om contact met Google API."
+
+#: functions/fe/widget-facebook.php:12
+msgid "Displays Facebook Like Box."
+msgstr "Geeft Facebook Like Box."
+
+#: functions/fe/widget-facebook.php:14
+msgid "ShootingStar Facebook Like Box Widget"
+msgstr "ShootingStar Facebook Like Box Widget"
+
+#: functions/fe/widget-facebook.php:56 functions/fe/widget-info-box.php:51
+#: functions/fe/widget-posts-column.php:41
+#: functions/fe/widget-posts-default.php:41
+#: functions/fe/widget-posts-grid.php:41 functions/fe/widget-posts-list.php:41
+#: functions/fe/widget-posts-slider.php:41
+#: functions/fe/widget-posts-thumbnail.php:41
+#: functions/fe/widget-twitter.php:39
+msgid "Title:"
+msgstr "Titel:"
+
+#: functions/fe/widget-facebook.php:63
+msgid "Facebook Page URL:"
+msgstr "Facebook Pagina URL:"
+
+#: functions/fe/widget-facebook.php:67
+msgid ""
+"Insert here the full URL of your Facebook Page that will be liked (example: "
+"http://www.facebook.com/FacebookDevelopers)."
+msgstr ""
+"Voer de volledige URL van uw Facebook pagina (voorbeeld: http://www.facebook."
+"com/FacebookDevelopers)."
+
+#: functions/fe/widget-facebook.php:73
+msgid "Like Box Height: (optional)"
+msgstr "Like Box hoogte: (optioneel)"
+
+#: functions/fe/widget-facebook.php:77
+msgid ""
+"Insert here the height of Like Box. The value is in pixels, but in the field "
+"please write ONLY NUMBERS (without symbol \"px\")!"
+msgstr ""
+"Definieer hier de hoogte van Like Box. De waarde is in pixels, maar in het "
+"veld kunt u schrijven alleen cijfers (zonder symbool \"px\")!"
+
+#: functions/fe/widget-facebook.php:83
+msgid "Show Faces:"
+msgstr "Toon Profiel foto's:"
+
+#: functions/fe/widget-facebook.php:90
+msgid "Specify whether to display profile photos of people who like the page."
+msgstr "Geef aan of het profiel van foto's weer te geven."
+
+#: functions/fe/widget-facebook.php:96
+msgid "Show Stream:"
+msgstr "Toon laatste berichten:"
+
+#: functions/fe/widget-facebook.php:103
+msgid "Specify whether to display a stream of the latest posts by the Page."
+msgstr "Geef op of u de laatste berichten van de pagina weer te geven."
+
+#: functions/fe/widget-info-box.php:12
+msgid "Displays a box with your custom text and icon."
+msgstr "Geeft een doos met uw eigen tekst en pictogram."
+
+#: functions/fe/widget-info-box.php:14
+msgid "ShootingStar Info-Box"
+msgstr "ShootingStar Info-Box"
+
+#: functions/fe/widget-info-box.php:41
+msgid "Icon:"
+msgstr "Pictogram:"
+
+#: functions/fe/widget-info-box.php:45
+msgid ""
+"Insert here the name of an icon (example: <strong>icon_calendar</strong>)."
+msgstr ""
+"Definieer hier de icoon naam (bijvoorbeeld: <strong>icon_calendar</strong>)."
+
+#: functions/fe/widget-info-box.php:58
+msgid "Text:"
+msgstr "Tekst:"
+
+#: functions/fe/widget-posts-column.php:12
+msgid ""
+"Displays the latest posts from the selected category as a column with "
+"highlighted first post."
+msgstr ""
+"Geeft de laatste berichten uit de geselecteerde categorie als een kolom."
+
+#: functions/fe/widget-posts-column.php:14
+msgid "ShootingStar Posts-Column"
+msgstr "ShootingStar Posts-Column"
+
+#: functions/fe/widget-posts-column.php:48
+#: functions/fe/widget-posts-default.php:48
+#: functions/fe/widget-posts-grid.php:48 functions/fe/widget-posts-list.php:48
+#: functions/fe/widget-posts-slider.php:48
+#: functions/fe/widget-posts-thumbnail.php:48
+msgid "Category:"
+msgstr "Categorie:"
+
+#: functions/fe/widget-posts-column.php:58
+#: functions/fe/widget-posts-default.php:58
+#: functions/fe/widget-posts-grid.php:58 functions/fe/widget-posts-list.php:58
+#: functions/fe/widget-posts-slider.php:58
+#: functions/fe/widget-posts-thumbnail.php:58
+msgid "Select a category of posts."
+msgstr "Selecteer een categorie berichten."
+
+#: functions/fe/widget-posts-column.php:64
+#: functions/fe/widget-posts-default.php:64
+#: functions/fe/widget-posts-grid.php:64 functions/fe/widget-posts-list.php:64
+#: functions/fe/widget-posts-slider.php:64
+#: functions/fe/widget-posts-thumbnail.php:64
+msgid "Number of posts:"
+msgstr "Aantal Berichten:"
+
+#: functions/fe/widget-posts-column.php:68
+#: functions/fe/widget-posts-default.php:68
+#: functions/fe/widget-posts-grid.php:68 functions/fe/widget-posts-list.php:68
+#: functions/fe/widget-posts-slider.php:68
+#: functions/fe/widget-posts-thumbnail.php:68
+msgid ""
+"Insert here the number of latest posts from the selected category which you "
+"want to display."
+msgstr ""
+"Vul hier het aantal meest recente berichten uit de geselecteerde categorie "
+"die u wilt weergeven."
+
+#: functions/fe/widget-posts-default.php:12
+msgid ""
+"Displays the latest posts from the selected category in the default manner."
+msgstr ""
+"Geeft de laatste berichten uit de geselecteerde categorie in de standaard "
+"manier."
+
+#: functions/fe/widget-posts-default.php:14
+msgid "ShootingStar Posts-Default"
+msgstr "ShootingStar Posts-Default"
+
+#: functions/fe/widget-posts-grid.php:12
+msgid "Displays the latest posts from the selected category as a grid."
+msgstr "Geeft de laatste berichten uit de geselecteerde categorie in rooster."
+
+#: functions/fe/widget-posts-grid.php:14
+msgid "ShootingStar Posts-Grid"
+msgstr "ShootingStar Posts-Grid"
+
+#: functions/fe/widget-posts-list.php:12
+msgid ""
+"Displays the latest posts from the selected category as an unordered list "
+"with highlighted first post."
+msgstr ""
+"Geeft de laatste berichten uit de geselecteerde categorie als een "
+"ongeordende lijst."
+
+#: functions/fe/widget-posts-list.php:14
+msgid "ShootingStar Posts-List"
+msgstr "ShootingStar Posts-List"
+
+#: functions/fe/widget-posts-slider.php:12
+msgid "Displays the latest posts from the selected category as a slider."
+msgstr ""
+"Geeft de laatste berichten uit de geselecteerde categorie als een schuif."
+
+#: functions/fe/widget-posts-slider.php:14
+msgid "ShootingStar Posts-Slider"
+msgstr "ShootingStar Posts-Slider"
+
+#: functions/fe/widget-posts-thumbnail.php:12
+msgid "Displays the latest posts from the selected category as the thumbnails."
+msgstr ""
+"Geeft de laatste berichten uit de geselecteerde categorie als de miniaturen."
+
+#: functions/fe/widget-posts-thumbnail.php:14
+msgid "ShootingStar Posts-Thumbnail"
+msgstr "ShootingStar Posts-Thumbnail"
+
+#: functions/fe/widget-twitter.php:13
+msgid "Twitter widget by ShootingStar"
+msgstr "Twitter Widget door ShootingStar"
+
+#: functions/fe/widget-twitter.php:15
+msgid "ShootingStar Twitter Widget"
+msgstr "ShootingStar Twitter Widget"
+
+#: functions/fe/widget-twitter.php:25
+msgid "Join us on Twitter"
+msgstr "Volg ons via Twitter"
+
+#: functions/fe/widget-twitter.php:46
+msgid "Twitter Username:"
+msgstr "Twitter Gebruikersnaam:"
+
+#: functions/fe/widget-twitter.php:50
+msgid "Insert your Twitter username. (ex: shootingstar)."
+msgstr "Voer uw Twitter gebruikersnaam in. (Bijv: shootingstar)."
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:19
+msgid ""
+"Display popular posts, recent posts, comments and tags in tabbed format."
+msgstr ""
+"Geeft populaire berichten, recente berichten, commentaren en labels in "
+"tabbladen formaat."
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:21
+msgid "ShootingStar Tab Widget"
+msgstr "ShootingStar Tab Widget"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:41
+msgid "Select Tabs"
+msgstr "Selecteer Tabbladen"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:46
+msgid "Popular Tab"
+msgstr "Populaire Tabblad"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:50
+msgid "Recent Tab"
+msgstr "Recente Tabblad"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:54
+msgid "Comments Tab"
+msgstr "Reacties Tabblad"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:58
+msgid "Tags Tab"
+msgstr "Labels Tabblad"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:63
+msgid "Tab Order"
+msgstr "Tabbladen Orde"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:69
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:193
+msgid "Popular"
+msgstr "Populaire"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:73
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:194
+msgid "Recent"
+msgstr "Recente"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:77
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:195
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:314
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:367
+msgid "Comments"
+msgstr "Reacties"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:81
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:196
+msgid "Tags"
+msgstr "Labels"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:86
+msgid "Advanced Options"
+msgstr "Geavanceerde Opties"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:92
+msgid "Allow pagination"
+msgstr "Laat paginering"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:99
+msgid "Number of posts to show:"
+msgstr "Aantal Berichten om te laten zien:"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:108
+msgid "Show post thumbnails"
+msgstr "Toon bericht miniaturen"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:115
+msgid "Show post date"
+msgstr "Toon postdatum"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:122
+msgid "Show number of comments"
+msgstr "Toon aantal reacties"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:129
+msgid "Show post excerpt"
+msgstr "Toon bericht uittreksel"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:135
+msgid "Excerpt length (words):"
+msgstr "Uittreksel lengte (woorden):"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:148
+msgid "Number of comments on Comments Tab:"
+msgstr "Aantal reacties op Reacties Tabblad:"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:157
+msgid "Show avatars on Comments Tab"
+msgstr "Toon avatars op Reacties Tabblad"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:314
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:367
+msgid "No Comment"
+msgstr "Geen reactie"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:314
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:367
+msgid "One Comment"
+msgstr "1 Reactie"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:426
+msgid "No comments yet."
+msgstr "Nog geen reacties."
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:449
+msgid "No tags created."
+msgstr "Geen labels aangemaakt."

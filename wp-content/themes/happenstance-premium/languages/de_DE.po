@@ -1,0 +1,937 @@
+# Translation of the WordPress theme HappenStance 1.0 by Tomas Toman.
+# This file is distributed under the same license as the HappenStance package.
+# Tomas Toman <webdesign@tomastoman.cz>, 2014.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: HappenStance 1.0\n"
+"POT-Creation-Date: 2014-11-29 08:37+0100\n"
+"PO-Revision-Date: 2015-08-10 10:27+0100\n"
+"Last-Translator: \n"
+"Language-Team: Tomas Toman <webdesign@tomastoman.cz>\n"
+"Language: Deutsch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:9 search.php:44
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: 404.php:13
+msgid ""
+"Apologies, but no results were found for your request. Perhaps searching "
+"will help you to find a related content."
+msgstr ""
+"Entschuldigen Sie bitte, aber für Ihre Anfrage wurden keine Ergebnisse "
+"gefunden. Vielleicht hilft Ihne die Suche verwandte Inhalte zu finden."
+
+#: archive.php:11
+#, php-format
+msgid "Daily Archive: %s"
+msgstr "Tages-Archiv: %s"
+
+#: archive.php:13
+#, php-format
+msgid "Monthly Archive: %s"
+msgstr "Monats-Archiv: %s"
+
+#: archive.php:15
+#, php-format
+msgid "Yearly Archive: %s"
+msgstr "Jahres-Archiv: %s"
+
+#: archive.php:17
+msgid "Archive"
+msgstr "Archiv"
+
+#: author.php:11
+#, php-format
+msgid "Author Archive: %s"
+msgstr "Archiv des Autors: %s"
+
+#: class-tgm-plugin-activation.php:156
+msgid "Install Required Plugins"
+msgstr "Installieren Sie die erforderlichen Plugins"
+
+#: class-tgm-plugin-activation.php:157 functions.php:618
+msgid "Install Plugins"
+msgstr "Plugins installieren "
+
+#: class-tgm-plugin-activation.php:158 functions.php:622
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installiere Plugin: %s"
+
+#: class-tgm-plugin-activation.php:159
+msgid "Something went wrong."
+msgstr "Irgendetwas ist schiefgegangen."
+
+#: class-tgm-plugin-activation.php:170
+msgid "Return to Required Plugins Installer"
+msgstr "Zurück zum Erforderliche Plugins Installer"
+
+#: class-tgm-plugin-activation.php:171
+msgid "Return to the dashboard"
+msgstr "Zurück zum Dashboard"
+
+#: class-tgm-plugin-activation.php:172 class-tgm-plugin-activation.php:1837
+msgid "Plugin activated successfully."
+msgstr "Plugin erfolgreich aktiviert."
+
+#: class-tgm-plugin-activation.php:173 class-tgm-plugin-activation.php:1535
+msgid "The following plugin was activated successfully:"
+msgstr "Das folgende Plugin wurde erfolgreich aktiviert:"
+
+#: class-tgm-plugin-activation.php:174
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle Plugins installiert und erfolgreich aktiviert. %1$s"
+
+#: class-tgm-plugin-activation.php:175
+msgid "Dismiss this notice"
+msgstr "Diese Mitteilung ausblenden"
+
+#: class-tgm-plugin-activation.php:1083
+msgid "External Link"
+msgstr "Externer Link"
+
+#: class-tgm-plugin-activation.php:1088
+msgid "Private Repository"
+msgstr "Privates Projektarchiv"
+
+#: class-tgm-plugin-activation.php:1091
+msgid "Pre-Packaged"
+msgstr "Vorgepackt"
+
+#: class-tgm-plugin-activation.php:1095
+msgid "WordPress Repository"
+msgstr "WordPress Projektarchiv"
+
+#: class-tgm-plugin-activation.php:1098
+msgid "Required"
+msgstr "Erforderlich"
+
+#: class-tgm-plugin-activation.php:1098
+msgid "Recommended"
+msgstr "Empfohlen"
+
+#: class-tgm-plugin-activation.php:1101
+msgid "Not Installed"
+msgstr "Nicht installiert"
+
+#: class-tgm-plugin-activation.php:1103
+msgid "Installed But Not Activated"
+msgstr "Installiert, aber nicht aktiviert"
+
+#: class-tgm-plugin-activation.php:1273
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Keine Plugins zum Installieren oder Aktivieren. <a href=\"%1$s\" title="
+"\"Zurück zum Dashboard\">Zurück zum Dashboard</a>"
+
+#: class-tgm-plugin-activation.php:1289
+msgid "Plugin"
+msgstr "Plugin"
+
+#: class-tgm-plugin-activation.php:1290
+msgid "Source"
+msgstr "Quelle"
+
+#: class-tgm-plugin-activation.php:1291
+msgid "Type"
+msgstr "Typ"
+
+#: class-tgm-plugin-activation.php:1292
+msgid "Status"
+msgstr "Status"
+
+#: class-tgm-plugin-activation.php:1310
+msgid "Install"
+msgstr "Installieren"
+
+#: class-tgm-plugin-activation.php:1311
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: class-tgm-plugin-activation.php:1820
+msgid "Install package not available."
+msgstr "Installationspaket ist nicht verfügbar."
+
+#: class-tgm-plugin-activation.php:1821
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Download des Installationspaket von <span class=\"code\">%s</span>&#8230;"
+
+#: class-tgm-plugin-activation.php:1822
+msgid "Unpacking the package&#8230;"
+msgstr "Entpacken des Pakets&#8230;"
+
+#: class-tgm-plugin-activation.php:1823
+msgid "Installing the plugin&#8230;"
+msgstr "Installation des Plugin&#8230;"
+
+#: class-tgm-plugin-activation.php:1824
+msgid "Plugin install failed."
+msgstr "Plugin-Installation ist fehlgeschlagen."
+
+#: class-tgm-plugin-activation.php:1825
+msgid "Plugin installed successfully."
+msgstr "Plugin erfolgreich installiert."
+
+#: class-tgm-plugin-activation.php:1836
+msgid "Plugin activation failed."
+msgstr "Plugin-Aktivierung fehlgeschlagen."
+
+#: class-tgm-plugin-activation.php:1946
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Die Installation und Aktivierung beginnt. Dieser Vorgang kann auf einigen "
+"Hosts eine Weile dauern, bitte haben sie etwas Geduld."
+
+#: class-tgm-plugin-activation.php:1947
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s erfolgreich installiert und aktiviert."
+
+#: class-tgm-plugin-activation.php:1947 class-tgm-plugin-activation.php:1956
+msgid "Show Details"
+msgstr "Zeige Details"
+
+#: class-tgm-plugin-activation.php:1947 class-tgm-plugin-activation.php:1956
+msgid "Hide Details"
+msgstr "Details ausblenden"
+
+#: class-tgm-plugin-activation.php:1948
+msgid "All installations and activations have been completed."
+msgstr "Alle Installationen und Aktivierungen sind abgeschlossen."
+
+#: class-tgm-plugin-activation.php:1949
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installiere und aktiviere Plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:1953
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Der Installationsvorgang wird gestartet. Dieser Vorgang kann auf einigen "
+"Hosts eine Weile dauern, bitte haben sie Geduld."
+
+#: class-tgm-plugin-activation.php:1954
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Ein Fehler ist während der Installation von %1$s aufgetreten: <strong>%2$s</"
+"strong>."
+
+#: class-tgm-plugin-activation.php:1955
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Die Installation von %1$s ist fehlgeschlagen."
+
+#: class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s erfolgreich installiert."
+
+#: class-tgm-plugin-activation.php:1957
+msgid "All installations have been completed."
+msgstr "Alle Installationen sind abgeschlossen."
+
+#: class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installiere Plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:2049
+msgid "Return to the Dashboard"
+msgstr "Zurück zum Dashboard"
+
+#: comments.php:21 content-archives-audio.php:22 content-archives-image.php:21
+#: content-archives-standard.php:24 content-archives-status.php:21
+#: content-archives-video.php:22 content-grid-audio.php:26
+#: content-grid-standard.php:28 content-grid-status.php:25
+#: content-grid-video.php:23 single.php:28
+#: functions/fe/widget-posts-column.php:115
+#: functions/fe/widget-posts-column.php:131
+#: functions/fe/widget-posts-list.php:113
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Kommentar"
+msgstr[1] "%1$s Kommentare"
+
+#: comments.php:30
+msgid "&larr; Older Comments"
+msgstr "&larr; Ältere Kommentare"
+
+#: comments.php:31
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: comments.php:42
+msgid "Your name"
+msgstr "Ihr Name"
+
+#: comments.php:43
+msgid "Website"
+msgstr "Webseite"
+
+#: comments.php:44
+msgid "Comment..."
+msgstr "Kommentar..."
+
+#: comments.php:48
+msgid "Leave a Comment"
+msgstr "Schreiben Sie einen Kommentar"
+
+#: functions.php:164
+msgid "Header Slideshow"
+msgstr "Header Slideshow"
+
+#: functions.php:176
+msgid "Insert here a Slideshow ID to display a slideshow in header."
+msgstr ""
+"Geben Sie hier eine Slideshow-ID an, um eine Slideshow in der Kopfzeile "
+"anzeigen."
+
+#: functions.php:218
+msgid "Video Thumbnail"
+msgstr "Vorschau-Video"
+
+#: functions.php:230
+msgid "Insert here the full URL address of the Video Thumbnail."
+msgstr "Fügen Sie hier die vollständige URL des Video-Thumbnails ein."
+
+#: functions.php:285
+msgid "Main Header Menu"
+msgstr "Haupt-Header-Menü"
+
+#: functions.php:286
+msgid "Social Networks Links"
+msgstr "Soziale-Netzwerk-Links"
+
+#: functions.php:287
+msgid "Carousel Menu"
+msgstr "Carousel-Menü"
+
+#: functions.php:299
+msgid "Right Sidebar"
+msgstr "Rechte Sidebar"
+
+#: functions.php:301
+msgid "Right sidebar which appears on all posts and pages."
+msgstr "Rechte Sidebar, die bei allen Seiten und Beiträgen angezeigt wird."
+
+#: functions.php:308
+msgid "Footer left widget area"
+msgstr "Linker Footer-Widget-Bereich"
+
+#: functions.php:310
+msgid "Left column with widgets in footer."
+msgstr "Linke Spalte mit Widgets im Footer."
+
+#: functions.php:317
+msgid "Footer middle widget area"
+msgstr "Mittlerer Footer-Widget-Bereich"
+
+#: functions.php:319
+msgid "Middle column with widgets in footer."
+msgstr "Mittlere Spalte mit Widgets im Footer."
+
+#: functions.php:326
+msgid "Footer right widget area"
+msgstr "Rechter Footer-Widget-Bereich"
+
+#: functions.php:328
+msgid "Right column with widgets in footer."
+msgstr "Rechte Spalte mit Widgets im Footer."
+
+#: functions.php:335
+msgid "Footer notices"
+msgstr "Footer-Vermerke"
+
+#: functions.php:337
+msgid ""
+"The line for copyright and other notices below the footer widget areas. "
+"Insert here one Text widget. The \"Title\" field at this widget should stay "
+"empty."
+msgstr ""
+"Die Zeile für Urheberrechts- und andere Mitteilungen unter dem Footer-Widget-"
+"Bereich. Fügen Sie hier nur ein Text-Widget ein. Das \"Titel\"-Feld in "
+"diesem Widget sollte leer bleiben."
+
+#: functions.php:344
+msgid "Homepage slideshow"
+msgstr "Startseiten-Slideshow"
+
+#: functions.php:346
+msgid ""
+"The area for Cyclone Slider Widget which displays a slideshow on your "
+"homepage."
+msgstr ""
+"Der Bereich für das Cyclone-Slider-Widget, das eine Slideshow auf Ihrer "
+"Startseite anzeigt."
+
+#: functions.php:374
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#: functions.php:421
+msgid "Post navigation"
+msgstr "Beitragsnavigation"
+
+#: functions.php:429 search.php:32
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:462
+msgid "&larr; Previous"
+msgstr "&larr; Vorherige"
+
+#: functions.php:430 search.php:33
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:465
+msgid "Next &rarr;"
+msgstr "Nächste &rarr;"
+
+#: functions.php:452
+msgid "&larr; Previous post"
+msgstr "&larr; Vorheriger Beitrag"
+
+#: functions.php:454
+msgid "Next post &rarr;"
+msgstr "Nächster Beitrag &rarr;"
+
+#: functions.php:472
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:472
+msgid "(Edit)"
+msgstr "(Bearbeiten)"
+
+#: functions.php:485
+msgid "(Post author)"
+msgstr "(Beitrags-Autor)"
+
+#: functions.php:491
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s um %2$s"
+
+#: functions.php:497
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Kommentar wartet auf Moderation."
+
+#: functions.php:503
+msgid "Reply"
+msgstr "Antworten"
+
+#: functions.php:505 page.php:17 single.php:41
+#: template-full-width-without-sharing.php:18 template-full-width.php:18
+#: template-landing-page.php:17 template-sitemap.php:18
+#: template-without-sharing.php:18 template-without-title.php:19
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: functions.php:617
+msgid "Install Recommended Plugins"
+msgstr "Installieren Sie die empfohlenen Plugins"
+
+#: functions.php:619
+#, php-format
+msgid ""
+"The %1$s plugin is required for this theme. Click on the big blue button "
+"below to install and activate %1$s."
+msgstr ""
+"Das Plugin %1$s ist für dieses Theme erforderlich. Klicken Sie unten auf den "
+"großen blauen Button um %1$s zu installieren und aktivieren."
+
+#: functions.php:620
+#, php-format
+msgid ""
+"The %1$s is installed but currently inactive. Please go to the <a href=\"%2$s"
+"\">plugin administration page</a> page to activate it."
+msgstr ""
+"%1$s ist installiert, aber derzeit inaktiv. Bitte gehen Sie zur <a href="
+"\"%2$s\"> Plugin-Administrations-Seite </a>, um es zu aktivieren."
+
+#: functions.php:621
+#, php-format
+msgid "Install %s Now"
+msgstr "%s jetzt installieren"
+
+#: functions.php:623
+msgid "Something went wrong with the plugin API."
+msgstr "Etwas ging mit der Plugin-API schief."
+
+#: functions.php:624
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. <a href=\"%2$s\"><strong>Click here to "
+"begin the installation process</strong></a>. You may be asked for FTP "
+"credentials based on your server setup."
+msgstr ""
+"Dieses Theme benötigt das Plugin %1$s. <a href=\"%2$s\"><strong> Klicken Sie "
+"hier, um den Installationsprozeß zu starten</strong></a>. Abhängig von Ihrem "
+"Server-Setup können Sie nach FTP-Zugangsdaten gefragt werden."
+
+#: functions.php:625
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+"Es tut uns leid, aber Sie haben nicht die richtigen Berechtigungen um das "
+"Plugin %s zu installieren. Kontaktieren Sie den Administrator dieser Seite, "
+"um Hilfe bei der Plugin-Installation zu bekommen."
+
+#: functions.php:626
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. That plugin is currently inactive, so "
+"please go to the <a href=\"%2$s\">plugin administration page</a> to activate "
+"it."
+msgstr ""
+"Dieses Theme benötigt das Plugin %1$s. Das Plugin ist derzeit inaktiv. Gehen "
+"Sie daher bitte zur <a href=\"%2$s\">Plugin-Administrations-Seite</a>, um es "
+"zu aktivieren."
+
+#: functions.php:627
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+"Es tut uns leid, aber Sie haben nicht die richtigen Berechtigungen um das "
+"Plugin %s zu aktivieren. Kontaktieren Sie den Administrator dieser Seite, um "
+"Hilfe bei der Plugin-Aktivierung zu bekommen."
+
+#: functions.php:628
+msgid "Return to Recommended Plugins Installer"
+msgstr "Zurück zum Empfohlene-Plugins-Installer"
+
+#: functions.php:639
+msgid "HappenStance"
+msgstr "HappenStance"
+
+#: page.php:16 single.php:40 template-full-width-without-sharing.php:17
+#: template-full-width.php:17 template-landing-page.php:16
+#: template-without-sharing.php:17 template-without-title.php:18
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: search.php:13
+msgid "Number of Results: "
+msgstr "Anzahl der Ergebnisse: "
+
+#: search.php:24
+msgid "Search results navigation"
+msgstr "Suchergebnis-Navigation"
+
+#: search.php:47
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Es tut uns leid, aber nichts entspricht Ihren Suchkriterien. Bitte versuchen "
+"Sie es erneut mit einigen anderen Suchbegriffen."
+
+#: searchform.php:9
+msgid "Search here..."
+msgstr "Suche hier..."
+
+#: tag.php:10
+#, php-format
+msgid "Tag Archive: %s"
+msgstr "Schlagwort-Archiv: %s"
+
+#: cycloneslider/dark/slider.php:43
+msgid "View Larger Image"
+msgstr "Bild vergrößern"
+
+#: cycloneslider/dark/slider.php:46 cycloneslider/dark/slider.php:48
+msgid "Learn More"
+msgstr "Erfahren Sie mehr"
+
+#: cycloneslider/dark/slider.php:64 cycloneslider/default/slider.php:62
+#: cycloneslider/default/slider.php:66 cycloneslider/default/slider.php:70
+#: cycloneslider/standard/slider.php:70
+msgid "Slide type not supported."
+msgstr "Slide-Typ nicht unterstützt."
+
+#: functions/be/fw-options.php:1488
+msgid "settings reset."
+msgstr "Einstellungen zurückgesetzt."
+
+#: functions/be/fw-options.php:1526
+msgid "Save all changes"
+msgstr "Alle Änderungen speichern"
+
+#: functions/be/fw-options.php:1532
+msgid "Reset all settings"
+msgstr "Alle Einstellungen zurücksetzen"
+
+#: functions/be/fw-options.php:1557 functions/be/fw-options.php:1564
+msgid "Upload Image"
+msgstr "Bild hochladen"
+
+#: functions/be/fw-setup.php:16
+msgid "Theme Options"
+msgstr "Theme-Optionen"
+
+#: functions/fe/google-map-shortcode.php:100
+msgid "No location found for the entered address."
+msgstr "Kein Ort für die eingegebene Adresse gefunden."
+
+#: functions/fe/google-map-shortcode.php:102
+msgid "Invalid request. Did you enter an address?"
+msgstr "Ungültige Anforderung. Haben Sie eine Adresse eingeben?"
+
+#: functions/fe/google-map-shortcode.php:104
+msgid ""
+"Something went wrong while retrieving your map, please ensure you have "
+"entered the short code correctly."
+msgstr ""
+"Beim Abruf Ihrer Karte ist ein Fehler aufgetreten. Bitte stellen Sie sicher, "
+"daß Sie denKurzcode korrekt eingegeben zuhaben."
+
+#: functions/fe/google-map-shortcode.php:107
+msgid "Unable to contact Google API service."
+msgstr "Kann Google-API-Service nicht kontaktieren."
+
+#: functions/fe/widget-facebook.php:12
+msgid "Displays Facebook Like Box."
+msgstr "Facebook-Like-Box anzeigen."
+
+#: functions/fe/widget-facebook.php:14
+msgid "HappenStance Facebook Like Box Widget"
+msgstr "HappenStance Facebook-Like-Box-Widget"
+
+#: functions/fe/widget-facebook.php:56 functions/fe/widget-info-box.php:50
+#: functions/fe/widget-posts-column.php:41
+#: functions/fe/widget-posts-default.php:41
+#: functions/fe/widget-posts-grid.php:41 functions/fe/widget-posts-list.php:41
+#: functions/fe/widget-posts-slider.php:41
+#: functions/fe/widget-posts-thumbnail.php:41
+#: functions/fe/widget-twitter.php:39
+msgid "Title:"
+msgstr "Titel:"
+
+#: functions/fe/widget-facebook.php:63
+msgid "Facebook Page URL:"
+msgstr "Facebook-Seiten-URL:"
+
+#: functions/fe/widget-facebook.php:67
+msgid ""
+"Insert here the full URL of your Facebook Page that will be liked (example: "
+"http://www.facebook.com/FacebookDevelopers)."
+msgstr ""
+"Geben Sie hier die vollständige URL Ihre Facebook-Seite an, die geliked wird "
+"(Beispiel: http://www.facebook.com/FacebookDevelopers)."
+
+#: functions/fe/widget-facebook.php:73
+msgid "Like Box Height: (optional)"
+msgstr "Höhe der Like-Box: (Optional)"
+
+#: functions/fe/widget-facebook.php:77
+msgid ""
+"Insert here the height of Like Box. The value is in pixels, but in the field "
+"please write ONLY NUMBERS (without symbol \"px\")!"
+msgstr ""
+"Geben Sie hier die Höhe der Like-Box an. Der Wert wird in Pixel angegeben, "
+"aber bitte schreiben Sie NUR ZAHLEN (ohne \"px\") in das Feld!"
+
+#: functions/fe/widget-facebook.php:83
+msgid "Show Faces:"
+msgstr "Zeige Faces:"
+
+#: functions/fe/widget-facebook.php:90
+msgid "Specify whether to display profile photos of people who like the page."
+msgstr ""
+"Geben Sie an, ob Profil-Fotos von Leuten, denen die Seite gefällt, angezeigt "
+"werden sollen."
+
+#: functions/fe/widget-facebook.php:96
+msgid "Show Stream:"
+msgstr "Stream anzeigen:"
+
+#: functions/fe/widget-facebook.php:103
+msgid "Specify whether to display a stream of the latest posts by the Page."
+msgstr ""
+"Geben Sie an, ob ein Stream der neuesten Beiträge der Seite angezeigt werden "
+"soll."
+
+#: functions/fe/widget-info-box.php:12
+msgid "Displays a box with your custom text and icon."
+msgstr "Zeigt eine Box mit Ihrem Wunschtext und -symbol an."
+
+#: functions/fe/widget-info-box.php:14
+msgid "HappenStance Info-Box"
+msgstr "HappenStance Info-Box"
+
+#: functions/fe/widget-info-box.php:40
+msgid "Icon:"
+msgstr "Symbol:"
+
+#: functions/fe/widget-info-box.php:44
+msgid ""
+"Insert here the name of an icon (example: <strong>icon_calendar</strong>)."
+msgstr ""
+"Geben Sie hier den Namen des Symbols an (zum Beispiel: "
+"<strong>icon_calendar</strong>)."
+
+#: functions/fe/widget-info-box.php:57
+msgid "Text:"
+msgstr "Text:"
+
+#: functions/fe/widget-posts-column.php:12
+msgid ""
+"Displays the latest posts from the selected category as a column with "
+"highlighted first post."
+msgstr ""
+"Zeigt die neuesten Beiträge der gewählten Kategorie als eine Spalte mit "
+"einem hervorgehobenen ersten Beitrag an."
+
+#: functions/fe/widget-posts-column.php:14
+msgid "HappenStance Posts-Column"
+msgstr "HappenStance Beiträge - Spalte"
+
+#: functions/fe/widget-posts-column.php:48
+#: functions/fe/widget-posts-default.php:48
+#: functions/fe/widget-posts-grid.php:48 functions/fe/widget-posts-list.php:48
+#: functions/fe/widget-posts-slider.php:48
+#: functions/fe/widget-posts-thumbnail.php:48
+msgid "Category:"
+msgstr "Kategorie:"
+
+#: functions/fe/widget-posts-column.php:58
+#: functions/fe/widget-posts-default.php:58
+#: functions/fe/widget-posts-grid.php:58 functions/fe/widget-posts-list.php:58
+#: functions/fe/widget-posts-slider.php:58
+#: functions/fe/widget-posts-thumbnail.php:58
+msgid "Select a category of posts."
+msgstr "Wählen Sie eine Beitrags-Kategorie aus."
+
+#: functions/fe/widget-posts-column.php:64
+#: functions/fe/widget-posts-default.php:64
+#: functions/fe/widget-posts-grid.php:64 functions/fe/widget-posts-list.php:64
+#: functions/fe/widget-posts-slider.php:64
+#: functions/fe/widget-posts-thumbnail.php:64
+msgid "Number of posts:"
+msgstr "Anzahl der Beiträge: "
+
+#: functions/fe/widget-posts-column.php:68
+#: functions/fe/widget-posts-default.php:68
+#: functions/fe/widget-posts-grid.php:68 functions/fe/widget-posts-list.php:68
+#: functions/fe/widget-posts-slider.php:68
+#: functions/fe/widget-posts-thumbnail.php:68
+msgid ""
+"Insert here the number of latest posts from the selected category which you "
+"want to display."
+msgstr ""
+"Geben Sie hier die Anzahl der neuesten Beiträge aus der gewählten Kategorie "
+"an, die Sie anzeigen möchten."
+
+#: functions/fe/widget-posts-default.php:12
+msgid ""
+"Displays the latest posts from the selected category in the default manner."
+msgstr ""
+"Zeigt die neuesten Beiträge aus der gewählten Kategorie im Standard-Format "
+"an."
+
+#: functions/fe/widget-posts-default.php:14
+msgid "HappenStance Posts-Default"
+msgstr "HappenStance Beiträge - Standard"
+
+#: functions/fe/widget-posts-grid.php:12
+msgid "Displays the latest posts from the selected category as a grid."
+msgstr "Zeigt die neuesten Beiträge aus der gewählten Kategorie als Raster an."
+
+#: functions/fe/widget-posts-grid.php:14
+msgid "HappenStance Posts-Grid"
+msgstr "HappenStance Beiträge - Raster"
+
+#: functions/fe/widget-posts-list.php:12
+msgid ""
+"Displays the latest posts from the selected category as an unordered list "
+"with highlighted first post."
+msgstr ""
+"Zeigt die neuesten Beiträge aus der gewählten Kategorie als ungeordnete "
+"Liste mit einem hervorgehobenen ersten Beitrag an."
+
+#: functions/fe/widget-posts-list.php:14
+msgid "HappenStance Posts-List"
+msgstr "HappenStance Beiträge - Liste"
+
+#: functions/fe/widget-posts-slider.php:12
+msgid "Displays the latest posts from the selected category as a slider."
+msgstr "Zeigt die neuesten Beiträge aus der gewählten Kategorie als Slider an."
+
+#: functions/fe/widget-posts-slider.php:14
+msgid "HappenStance Posts-Slider"
+msgstr "HappenStance Beiträge - Slider"
+
+#: functions/fe/widget-posts-thumbnail.php:12
+msgid "Displays the latest posts from the selected category as the thumbnails."
+msgstr ""
+"Zeigt die neuesten Beiträge aus der gewählten Kategorie als "
+"Miniaturansichten an."
+
+#: functions/fe/widget-posts-thumbnail.php:14
+msgid "HappenStance Posts-Thumbnail"
+msgstr "HappenStance Beiträge - Minaturansicht"
+
+#: functions/fe/widget-twitter.php:13
+msgid "Twitter widget by HappenStance"
+msgstr "Twitter-Widget von HappenStance"
+
+#: functions/fe/widget-twitter.php:15
+msgid "HappenStance Twitter Widget"
+msgstr "HappenStance Twitter-Widget"
+
+#: functions/fe/widget-twitter.php:25
+msgid "Join us on Twitter"
+msgstr "Folgen Sie uns auf Twitter"
+
+#: functions/fe/widget-twitter.php:46
+msgid "Twitter Username:"
+msgstr "Twitter-Benutzername:"
+
+#: functions/fe/widget-twitter.php:50
+msgid "Insert your Twitter username. (ex: happenstance)."
+msgstr "Geben Sie Ihre Twitter-Benutzernamen ein. (Beispiel: happenstance)."
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:19
+msgid ""
+"Display popular posts, recent posts, comments and tags in tabbed format."
+msgstr ""
+"Zeige beliebte Beiträge, die neuesten Beiträge, Kommentare und Tags als Tabs "
+"an."
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:21
+msgid "HappenStance Tab Widget"
+msgstr "HappenStance Tab-Widget"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:41
+msgid "Select Tabs"
+msgstr "Tabs auswählen"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:46
+msgid "Popular Tab"
+msgstr "Beliebt-Tab"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:50
+msgid "Recent Tab"
+msgstr "Neueste Tab"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:54
+msgid "Comments Tab"
+msgstr "Kommentar-Tab"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:58
+msgid "Tags Tab"
+msgstr "Schlagwort-Tab"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:63
+msgid "Tab Order"
+msgstr "Tabs-Reihenfolge"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:69
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:193
+msgid "Popular"
+msgstr "Beliebt"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:73
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:194
+msgid "Recent"
+msgstr "Neueste"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:77
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:195
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:314
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:367
+msgid "Comments"
+msgstr "Kommentare"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:81
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:196
+msgid "Tags"
+msgstr "Schlagworte"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:86
+msgid "Advanced Options"
+msgstr "Erweiterte Optionen"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:92
+msgid "Allow pagination"
+msgstr "Seitennummerierung zulassen"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:99
+msgid "Number of posts to show:"
+msgstr "Anzahl der angezeigten Beiträge:"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:108
+msgid "Show post thumbnails"
+msgstr "Zeige Beitrags-Miniaturansichten"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:115
+msgid "Show post date"
+msgstr "Beitrags-Datum anzeigen"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:122
+msgid "Show number of comments"
+msgstr "Anzahl der Kommentare:"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:129
+msgid "Show post excerpt"
+msgstr "Beitrags-Auszug anzeigen"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:135
+msgid "Excerpt length (words):"
+msgstr "Auszugs-Länge (Wörter):"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:148
+msgid "Number of comments on Comments Tab:"
+msgstr "Anzahl der Kommentare auf Kommentar-Tab:"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:157
+msgid "Show avatars on Comments Tab"
+msgstr "Zeige Avatare auf Kommentar-Tab"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:314
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:367
+msgid "No Comment"
+msgstr "Keine Kommentare"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:314
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:367
+msgid "One Comment"
+msgstr "Ein Kommentar"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:426
+msgid "No comments yet."
+msgstr "Noch keine Kommentare."
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:449
+msgid "No tags created."
+msgstr "Keine Schlagworte erstellt."

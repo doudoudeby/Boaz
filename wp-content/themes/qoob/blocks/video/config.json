@@ -1,0 +1,22 @@
+{
+    "name": "",
+    "groups": "video",
+    "template": "template.hbs",
+    "settings": [{
+        "name": "header",
+        "label": "Header",
+        "type": "text"
+    }, {
+        "name": "src",
+        "label": "Video",
+        "type": "video",
+        "tags": ["cube girl"]
+    }],
+    "defaults": {
+        "header": "MEET THE TEAM",
+        "src": {
+            "url": "%block_url(assets)%/assets/videos/cube_girl.mp4",
+            "preview": ""
+        }
+    }
+}

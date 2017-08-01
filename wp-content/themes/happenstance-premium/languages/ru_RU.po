@@ -1,0 +1,1082 @@
+# Translation of the WordPress theme HappenStance 1.0 by Tomas Toman.
+# This file is distributed under the same license as the HappenStance package.
+# Tomas Toman <webdesign@tomastoman.cz>, 2014.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: HappenStance v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-29 08:37+0100\n"
+"PO-Revision-Date: 2015-05-23 10:15+0100\n"
+"Last-Translator: Andew\n"
+"Language-Team: \n"
+"Language: Russian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.7\n"
+
+# @ happenstance
+#: 404.php:9 search.php:44
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+# @ happenstance
+#: 404.php:13
+msgid ""
+"Apologies, but no results were found for your request. Perhaps searching "
+"will help you to find a related content."
+msgstr ""
+"К сожалению ничего не найдено по Вашему запросу. Попробуйте воспользоваться "
+"поиском."
+
+# @ happenstance
+#: archive.php:11
+#, php-format
+msgid "Daily Archive: %s"
+msgstr "Дневной архив: %s"
+
+# @ happenstance
+#: archive.php:13
+#, php-format
+msgid "Monthly Archive: %s"
+msgstr "Месячный архив: %s"
+
+# @ happenstance
+#: archive.php:15
+#, php-format
+msgid "Yearly Archive: %s"
+msgstr "Годовой архив: %s"
+
+# @ happenstance
+#: archive.php:17
+msgid "Archive"
+msgstr "Архив"
+
+# @ happenstance
+#: author.php:11
+#, php-format
+msgid "Author Archive: %s"
+msgstr "Архив автора: %s"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:156
+msgid "Install Required Plugins"
+msgstr "Установить необходимые плагины"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:157 functions.php:618
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:158 functions.php:622
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:159
+msgid "Something went wrong."
+msgstr "Что-то пошло не так."
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:170
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установщику необходимых плагинов"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:171
+msgid "Return to the dashboard"
+msgstr "Вернуться к панели инструментов"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:172 class-tgm-plugin-activation.php:1837
+msgid "Plugin activated successfully."
+msgstr "Плагин активирован успешно."
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:173 class-tgm-plugin-activation.php:1535
+msgid "The following plugin was activated successfully:"
+msgstr "Следующий плагин был активирован успешно:"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:174
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины установлены и активированы успешно. %1$s"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:175
+msgid "Dismiss this notice"
+msgstr "Игнорировать это уведомление"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1083
+msgid "External Link"
+msgstr "Внешняя ссылка"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1088
+msgid "Private Repository"
+msgstr "Приватный репозиторий"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1091
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованные"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1095
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1098
+msgid "Required"
+msgstr "Необходимый"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1098
+msgid "Recommended"
+msgstr "Рекомендованный"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1101
+msgid "Not Installed"
+msgstr "Не установленный"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1103
+msgid "Installed But Not Activated"
+msgstr "Установленный, но не активированный"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1273
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Нет плагинов для инсталляции или активации. <a href=\"%1$s\" title="
+"\"Вернуться к панели инструментов\">Вернуться к панели инструментов</a>"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1289
+msgid "Plugin"
+msgstr "Плагин"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1290
+msgid "Source"
+msgstr "Источник"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1291
+msgid "Type"
+msgstr "Тип"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1292
+msgid "Status"
+msgstr "Статус"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1310
+msgid "Install"
+msgstr "Установить"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1311
+msgid "Activate"
+msgstr "Активировать"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1820
+msgid "Install package not available."
+msgstr "Установочный пакет не доступен."
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1821
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Загрузка установочного пакета из <span class=\"code\">%s</span>&#8230;"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1822
+msgid "Unpacking the package&#8230;"
+msgstr "Распаковка пакета&#8230;"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1823
+msgid "Installing the plugin&#8230;"
+msgstr "Установка плагина&#8230;"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1824
+msgid "Plugin install failed."
+msgstr "Неудачная установка плагина."
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1825
+msgid "Plugin installed successfully."
+msgstr "Плагин установлен успешно."
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1836
+msgid "Plugin activation failed."
+msgstr "Неудачная активация плагина."
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1946
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Процесс установки и активации начался. Этот процесс может занять некоторое "
+"время, поэтому, пожалуйста, будьте терпеливы."
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1947
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и активирован успешно."
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1947 class-tgm-plugin-activation.php:1956
+msgid "Show Details"
+msgstr "Показать детали"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1947 class-tgm-plugin-activation.php:1956
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1948
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации завершены."
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1949
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1953
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Процесс инсталляции запущен. Этот процесс может занять некоторое время, "
+"пожалуйста, будьте терпеливы."
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1954
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Произошла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1955
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s установлен успешно."
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1957
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+# @ happenstance
+#: class-tgm-plugin-activation.php:2049
+msgid "Return to the Dashboard"
+msgstr "Вернуться к панели инструментов."
+
+# @ happenstance
+#: comments.php:21 content-archives-audio.php:22 content-archives-image.php:21
+#: content-archives-standard.php:24 content-archives-status.php:21
+#: content-archives-video.php:22 content-grid-audio.php:26
+#: content-grid-standard.php:28 content-grid-status.php:25
+#: content-grid-video.php:23 single.php:28
+#: functions/fe/widget-posts-column.php:115
+#: functions/fe/widget-posts-column.php:131
+#: functions/fe/widget-posts-list.php:113
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s комментарий"
+msgstr[1] "%1$s комментария"
+msgstr[2] "%1$s комментариев"
+
+# @ happenstance
+#: comments.php:30
+msgid "&larr; Older Comments"
+msgstr "&larr; старые комментарии"
+
+# @ happenstance
+#: comments.php:31
+msgid "Newer Comments &rarr;"
+msgstr "новые комментарии &rarr;"
+
+# @ happenstance
+#: comments.php:37
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+# @ happenstance
+#: comments.php:42
+msgid "Your name"
+msgstr "Ваше имя"
+
+# @ happenstance
+#: comments.php:43
+msgid "Website"
+msgstr "Веб сайт"
+
+# @ happenstance
+#: comments.php:44
+msgid "Comment..."
+msgstr "Комментарий..."
+
+# @ happenstance
+#: comments.php:48
+msgid "Leave a Comment"
+msgstr "Оставить комментарий"
+
+#: functions.php:164
+msgid "Header Slideshow"
+msgstr "Слайдшоу в заголовке"
+
+#: functions.php:176
+msgid "Insert here a Slideshow ID to display a slideshow in header."
+msgstr "Вставьте здесь ID слайдшоу для отображения слайдов в заголовке."
+
+# @ happenstance
+#: functions.php:218
+msgid "Video Thumbnail"
+msgstr "Видео-миниатюра"
+
+# @ happenstance
+#: functions.php:230
+msgid "Insert here the full URL address of the Video Thumbnail."
+msgstr "Вставьте полный URL вашей видео-миниатюры."
+
+# @ happenstance
+#: functions.php:285
+msgid "Main Header Menu"
+msgstr "Основное меню шапки"
+
+#: functions.php:286
+msgid "Social Networks Links"
+msgstr "Ссылки на социальные сети"
+
+#: functions.php:287
+msgid "Carousel Menu"
+msgstr "Меню Carousel"
+
+# @ happenstance
+#: functions.php:299
+msgid "Right Sidebar"
+msgstr "Правый сайдбар"
+
+# @ happenstance
+#: functions.php:301
+msgid "Right sidebar which appears on all posts and pages."
+msgstr "Правая боковая панель, которая появляется на всех записях и страницах."
+
+# @ happenstance
+#: functions.php:308
+msgid "Footer left widget area"
+msgstr "Левая область виджетов футера"
+
+# @ happenstance
+#: functions.php:310
+msgid "Left column with widgets in footer."
+msgstr "Виджет - левый столбец футера."
+
+# @ happenstance
+#: functions.php:317
+msgid "Footer middle widget area"
+msgstr "Средняя область виджетов футера"
+
+# @ happenstance
+#: functions.php:319
+msgid "Middle column with widgets in footer."
+msgstr "Виджет - средний столбец футера"
+
+# @ happenstance
+#: functions.php:326
+msgid "Footer right widget area"
+msgstr "Правая область виджетов футера"
+
+# @ happenstance
+#: functions.php:328
+msgid "Right column with widgets in footer."
+msgstr "Виджет - правый столбец футера."
+
+# @ happenstance
+#: functions.php:335
+msgid "Footer notices"
+msgstr "Заметки футера"
+
+# @ happenstance
+#: functions.php:337
+msgid ""
+"The line for copyright and other notices below the footer widget areas. "
+"Insert here one Text widget. The \"Title\" field at this widget should stay "
+"empty."
+msgstr ""
+"Место для авторского права и других уведомлений в нижней области виджета "
+"колонтитула. Вставьте здесь один текстовый виджет. Поле название для этого "
+"виджета нужно оставить пустым."
+
+#: functions.php:344
+msgid "Homepage slideshow"
+msgstr "Слайдшоу на главной"
+
+#: functions.php:346
+msgid ""
+"The area for Cyclone Slider Widget which displays a slideshow on your "
+"homepage."
+msgstr ""
+"Место для Cyclone Slider Widget, который осуществляет показ слайдов на Вашей "
+"главной странице."
+
+# @ happenstance
+#: functions.php:374
+msgid "Read more"
+msgstr "Читать далее"
+
+# @ happenstance
+#: functions.php:421
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+# @ happenstance
+#: functions.php:429 search.php:32
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:462
+msgid "&larr; Previous"
+msgstr "&larr; Предыдущая"
+
+# @ happenstance
+#: functions.php:430 search.php:33
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:465
+msgid "Next &rarr;"
+msgstr "Следующая &rarr;"
+
+# @ happenstance
+#: functions.php:452
+msgid "&larr; Previous post"
+msgstr "&larr; Предыдущая запись"
+
+# @ happenstance
+#: functions.php:454
+msgid "Next post &rarr;"
+msgstr "Следующая запись &rarr;"
+
+# @ happenstance
+#: functions.php:472
+msgid "Pingback:"
+msgstr "Pingback:"
+
+# @ happenstance
+#: functions.php:472
+msgid "(Edit)"
+msgstr "(Изменить)"
+
+# @ happenstance
+#: functions.php:485
+msgid "(Post author)"
+msgstr "(Автор записи)"
+
+# @ happenstance
+#: functions.php:491
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+# @ happenstance
+#: functions.php:497
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+# @ happenstance
+#: functions.php:503
+msgid "Reply"
+msgstr "Ответить"
+
+# @ happenstance
+#: functions.php:505 page.php:17 single.php:41
+#: template-full-width-without-sharing.php:18 template-full-width.php:18
+#: template-landing-page.php:17 template-sitemap.php:18
+#: template-without-sharing.php:18 template-without-title.php:19
+msgid "Edit"
+msgstr "Изменить"
+
+# @ happenstance
+#: functions.php:617
+msgid "Install Recommended Plugins"
+msgstr "Установить необходимые плагины"
+
+# @ happenstance
+#: functions.php:619
+#, php-format
+msgid ""
+"The %1$s plugin is required for this theme. Click on the big blue button "
+"below to install and activate %1$s."
+msgstr ""
+"%1$s плагин необходим для этой темы. Нажмите на большую голубую кнопку ниже "
+"для инсталляции и активации плагина. %1$s."
+
+# @ happenstance
+#: functions.php:620
+#, php-format
+msgid ""
+"The %1$s is installed but currently inactive. Please go to the <a href=\"%2$s"
+"\">plugin administration page</a> page to activate it."
+msgstr ""
+"%1$s установлен но не активирован. Перейдите <a href=\"%2$s\">страница "
+"управления плагином</a> для его активации."
+
+# @ happenstance
+#: functions.php:621
+#, php-format
+msgid "Install %s Now"
+msgstr "Установить %s сейчас"
+
+# @ happenstance
+#: functions.php:623
+msgid "Something went wrong with the plugin API."
+msgstr "Что пошло не так с API плагина."
+
+# @ happenstance
+#: functions.php:624
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. <a href=\"%2$s\"><strong>Click here to "
+"begin the installation process</strong></a>. You may be asked for FTP "
+"credentials based on your server setup."
+msgstr ""
+"Для этой темы необходим %1$s плагин. <a href=\"%2$s\"><strong>Нажмите здесь "
+"для начала процесс установки</strong></a>. От вас могут потребоваться "
+"учетные записи FTP от вашего сервера."
+
+# @ happenstance
+#: functions.php:625
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+"Извините, но вы не имеете текущих полномочий устанавливать %s плагин. "
+"Свяжитесь с администратором сайта для получения помощи в установке этого "
+"плагина."
+
+# @ happenstance
+#: functions.php:626
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. That plugin is currently inactive, so "
+"please go to the <a href=\"%2$s\">plugin administration page</a> to activate "
+"it."
+msgstr ""
+"Для этой темы необходим %1$s плагин. Этот плагин сейчас неактивен, перейдите "
+"на <a href=\"%2$s\">страницу управления плагинами</a> для активации "
+"требуемого плагина."
+
+# @ happenstance
+#: functions.php:627
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+"Извините, но Вы не имеете текущих полномочий активировать %s плагин. "
+"Свяжитесь с администратором сайта для получения помощи в активации этого "
+"плагина."
+
+# @ happenstance
+#: functions.php:628
+msgid "Return to Recommended Plugins Installer"
+msgstr "Вернуться к установщику необходимых плагинов"
+
+# @ happenstance
+#: functions.php:639
+msgid "HappenStance"
+msgstr "HappenStance"
+
+# @ happenstance
+#: page.php:16 single.php:40 template-full-width-without-sharing.php:17
+#: template-full-width.php:17 template-landing-page.php:16
+#: template-without-sharing.php:17 template-without-title.php:18
+msgid "Pages:"
+msgstr "Страницы:"
+
+# @ happenstance
+#: search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+# @ happenstance
+#: search.php:13
+msgid "Number of Results: "
+msgstr "Номера записей: "
+
+# @ happenstance
+#: search.php:24
+msgid "Search results navigation"
+msgstr "Навигация по результатам поиска"
+
+# @ happenstance
+#: search.php:47
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, но ничего не соответствуют критериям поиска. Пожалуйста, "
+"попробуйте еще раз с использованием других ключевых слов."
+
+# @ happenstance
+#: searchform.php:9
+msgid "Search here..."
+msgstr "Искать здесь..."
+
+# @ happenstance
+#: tag.php:10
+#, php-format
+msgid "Tag Archive: %s"
+msgstr "Архив тегов: %s"
+
+#: cycloneslider/dark/slider.php:43
+msgid "View Larger Image"
+msgstr "Просмотреть увеличенное изображение"
+
+#: cycloneslider/dark/slider.php:46 cycloneslider/dark/slider.php:48
+msgid "Learn More"
+msgstr "Узнать подробнее"
+
+#: cycloneslider/dark/slider.php:64 cycloneslider/default/slider.php:62
+#: cycloneslider/default/slider.php:66 cycloneslider/default/slider.php:70
+#: cycloneslider/standard/slider.php:70
+msgid "Slide type not supported."
+msgstr "Тип слайда не поддерживается."
+
+# @ happenstance
+#: functions/be/fw-options.php:1488
+msgid "settings reset."
+msgstr "сброса настроек."
+
+#: functions/be/fw-options.php:1526
+msgid "Save all changes"
+msgstr "Сохранить изменения"
+
+#: functions/be/fw-options.php:1532
+msgid "Reset all settings"
+msgstr "Сброс всех настроек"
+
+#: functions/be/fw-options.php:1557 functions/be/fw-options.php:1564
+msgid "Upload Image"
+msgstr "Загрузка изображения"
+
+# @ happenstance
+#: functions/be/fw-setup.php:16
+msgid "Theme Options"
+msgstr "Опции темы"
+
+# @ happenstance
+#: functions/fe/google-map-shortcode.php:100
+msgid "No location found for the entered address."
+msgstr "Не найдено расположение для введенного адреса."
+
+# @ happenstance
+#: functions/fe/google-map-shortcode.php:102
+msgid "Invalid request. Did you enter an address?"
+msgstr "Неверный запрос. Вы ввели адрес?"
+
+# @ happenstance
+#: functions/fe/google-map-shortcode.php:104
+msgid ""
+"Something went wrong while retrieving your map, please ensure you have "
+"entered the short code correctly."
+msgstr ""
+"Что-то пошло не так при получении Вашей карты, пожалуйста, убедитесь, что вы "
+"правильно ввели короткий код."
+
+# @ happenstance
+#: functions/fe/google-map-shortcode.php:107
+msgid "Unable to contact Google API service."
+msgstr "Невозможно связаться со службой API Google."
+
+# @ happenstance
+#: functions/fe/widget-facebook.php:12
+msgid "Displays Facebook Like Box."
+msgstr "Отображает блок Facebook Like."
+
+# @ happenstance
+#: functions/fe/widget-facebook.php:14
+msgid "HappenStance Facebook Like Box Widget"
+msgstr "Блок Facebook Like для HappenStance"
+
+# @ happenstance
+#: functions/fe/widget-facebook.php:56 functions/fe/widget-info-box.php:50
+#: functions/fe/widget-posts-column.php:41
+#: functions/fe/widget-posts-default.php:41
+#: functions/fe/widget-posts-grid.php:41 functions/fe/widget-posts-list.php:41
+#: functions/fe/widget-posts-slider.php:41
+#: functions/fe/widget-posts-thumbnail.php:41
+#: functions/fe/widget-twitter.php:39
+msgid "Title:"
+msgstr "Заголовок:"
+
+# @ happenstance
+#: functions/fe/widget-facebook.php:63
+msgid "Facebook Page URL:"
+msgstr "URL страницы Facebook:"
+
+# @ happenstance
+#: functions/fe/widget-facebook.php:67
+msgid ""
+"Insert here the full URL of your Facebook Page that will be liked (example: "
+"http://www.facebook.com/FacebookDevelopers)."
+msgstr ""
+"Вставьте здесь полный адрес вашей страницы Facebook  (пример: http://www."
+"facebook.com/FacebookDevelopers)."
+
+# @ happenstance
+#: functions/fe/widget-facebook.php:73
+msgid "Like Box Height: (optional)"
+msgstr "Высота блока Like: (необязательно)"
+
+# @ happenstance
+#: functions/fe/widget-facebook.php:77
+msgid ""
+"Insert here the height of Like Box. The value is in pixels, but in the field "
+"please write ONLY NUMBERS (without symbol \"px\")!"
+msgstr ""
+"Введите высоту для Like Box. Значение в пикселях, но но вводите в поле "
+"только цифры (без символа \"px\")!"
+
+# @ happenstance
+#: functions/fe/widget-facebook.php:83
+msgid "Show Faces:"
+msgstr "Показать лица:"
+
+# @ happenstance
+#: functions/fe/widget-facebook.php:90
+msgid "Specify whether to display profile photos of people who like the page."
+msgstr ""
+"Укажите, следует ли отображать фотографии людей, которым нравиться страница."
+
+# @ happenstance
+#: functions/fe/widget-facebook.php:96
+msgid "Show Stream:"
+msgstr "Показывать направления:"
+
+# @ happenstance
+#: functions/fe/widget-facebook.php:103
+msgid "Specify whether to display a stream of the latest posts by the Page."
+msgstr ""
+"Укажите, следует ли отображать направления последних сообщений на странице."
+
+# @ happenstance
+#: functions/fe/widget-info-box.php:12
+msgid "Displays a box with your custom text and icon."
+msgstr "Отображает окно с вашими текстом и значок."
+
+# @ happenstance
+#: functions/fe/widget-info-box.php:14
+msgid "HappenStance Info-Box"
+msgstr "HappenStance Info-Box"
+
+# @ happenstance
+#: functions/fe/widget-info-box.php:40
+msgid "Icon:"
+msgstr "Иконка:"
+
+#: functions/fe/widget-info-box.php:44
+msgid ""
+"Insert here the name of an icon (example: <strong>icon_calendar</strong>)."
+msgstr "Вставьте имя значка (например:<strong>icon_calendar</strong>)."
+
+# @ happenstance
+#: functions/fe/widget-info-box.php:57
+msgid "Text:"
+msgstr "Текст:"
+
+# @ happenstance
+#: functions/fe/widget-posts-column.php:12
+msgid ""
+"Displays the latest posts from the selected category as a column with "
+"highlighted first post."
+msgstr ""
+"Отображает последние записи из выбранной категории как колонка с выделением "
+"первой записи."
+
+# @ happenstance
+#: functions/fe/widget-posts-column.php:14
+msgid "HappenStance Posts-Column"
+msgstr "HappenStance Posts-Column"
+
+# @ happenstance
+#: functions/fe/widget-posts-column.php:48
+#: functions/fe/widget-posts-default.php:48
+#: functions/fe/widget-posts-grid.php:48 functions/fe/widget-posts-list.php:48
+#: functions/fe/widget-posts-slider.php:48
+#: functions/fe/widget-posts-thumbnail.php:48
+msgid "Category:"
+msgstr "Рубрика:"
+
+# @ happenstance
+#: functions/fe/widget-posts-column.php:58
+#: functions/fe/widget-posts-default.php:58
+#: functions/fe/widget-posts-grid.php:58 functions/fe/widget-posts-list.php:58
+#: functions/fe/widget-posts-slider.php:58
+#: functions/fe/widget-posts-thumbnail.php:58
+msgid "Select a category of posts."
+msgstr "Выберите рубрику записей."
+
+# @ happenstance
+#: functions/fe/widget-posts-column.php:64
+#: functions/fe/widget-posts-default.php:64
+#: functions/fe/widget-posts-grid.php:64 functions/fe/widget-posts-list.php:64
+#: functions/fe/widget-posts-slider.php:64
+#: functions/fe/widget-posts-thumbnail.php:64
+msgid "Number of posts:"
+msgstr "Номера записей:"
+
+# @ happenstance
+#: functions/fe/widget-posts-column.php:68
+#: functions/fe/widget-posts-default.php:68
+#: functions/fe/widget-posts-grid.php:68 functions/fe/widget-posts-list.php:68
+#: functions/fe/widget-posts-slider.php:68
+#: functions/fe/widget-posts-thumbnail.php:68
+msgid ""
+"Insert here the number of latest posts from the selected category which you "
+"want to display."
+msgstr ""
+"Здесь следует вставить номера последних записей из выбранной рубрики, "
+"которые вы хотите показать."
+
+# @ happenstance
+#: functions/fe/widget-posts-default.php:12
+msgid ""
+"Displays the latest posts from the selected category in the default manner."
+msgstr "Отображает последние записи из выбранной категории."
+
+# @ happenstance
+#: functions/fe/widget-posts-default.php:14
+msgid "HappenStance Posts-Default"
+msgstr "HappenStance Posts-Default"
+
+# @ happenstance
+#: functions/fe/widget-posts-grid.php:12
+msgid "Displays the latest posts from the selected category as a grid."
+msgstr "Отображает последние записи из выбранной категории как таблицу."
+
+# @ happenstance
+#: functions/fe/widget-posts-grid.php:14
+msgid "HappenStance Posts-Grid"
+msgstr "HappenStance Posts-Grid"
+
+# @ happenstance
+#: functions/fe/widget-posts-list.php:12
+msgid ""
+"Displays the latest posts from the selected category as an unordered list "
+"with highlighted first post."
+msgstr ""
+"Отображает последние записи из выбранной категории как список с выделением "
+"первой записи."
+
+# @ happenstance
+#: functions/fe/widget-posts-list.php:14
+msgid "HappenStance Posts-List"
+msgstr "HappenStance Posts-List"
+
+# @ happenstance
+#: functions/fe/widget-posts-slider.php:12
+msgid "Displays the latest posts from the selected category as a slider."
+msgstr "Отображает последние записи из выбранной категории как слайдер."
+
+# @ happenstance
+#: functions/fe/widget-posts-slider.php:14
+msgid "HappenStance Posts-Slider"
+msgstr "HappenStance Posts-Slider"
+
+# @ happenstance
+#: functions/fe/widget-posts-thumbnail.php:12
+msgid "Displays the latest posts from the selected category as the thumbnails."
+msgstr "Отображает последние записи из выбранной категории как эскизы."
+
+# @ happenstance
+#: functions/fe/widget-posts-thumbnail.php:14
+msgid "HappenStance Posts-Thumbnail"
+msgstr "HappenStance Posts-Thumbnail"
+
+# @ happenstance
+#: functions/fe/widget-twitter.php:13
+msgid "Twitter widget by HappenStance"
+msgstr "Виджет Twitter от HappenStance"
+
+# @ happenstance
+#: functions/fe/widget-twitter.php:15
+msgid "HappenStance Twitter Widget"
+msgstr "Виджет Twitter для HappenStance"
+
+# @ happenstance
+#: functions/fe/widget-twitter.php:25
+msgid "Join us on Twitter"
+msgstr "Присоединяйтесь к нам на Twitter"
+
+# @ happenstance
+#: functions/fe/widget-twitter.php:46
+msgid "Twitter Username:"
+msgstr "Псевдоним на Twitter:"
+
+# @ happenstance
+#: functions/fe/widget-twitter.php:50
+msgid "Insert your Twitter username. (ex: happenstance)."
+msgstr "Введите ваш псевдоним на Twitter. (пр: terrorizmo)."
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:19
+msgid ""
+"Display popular posts, recent posts, comments and tags in tabbed format."
+msgstr ""
+"Отображать популярные и последние сообщения, комментарии и теги в виде "
+"вкладок."
+
+# @ happenstance
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:21
+msgid "HappenStance Tab Widget"
+msgstr "Виджет вкладок для HappenStance"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:41
+msgid "Select Tabs"
+msgstr "Выберите вкладки"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:46
+msgid "Popular Tab"
+msgstr "Вкладка популярных"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:50
+msgid "Recent Tab"
+msgstr "Вкладка недавних"
+
+# @ happenstance
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:54
+msgid "Comments Tab"
+msgstr "Вкладка комментариев"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:58
+msgid "Tags Tab"
+msgstr "Вкладка тегов"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:63
+msgid "Tab Order"
+msgstr "Порядок вкладок"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:69
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:193
+msgid "Popular"
+msgstr "Популярные"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:73
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:194
+msgid "Recent"
+msgstr "Недавние"
+
+# @ happenstance
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:77
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:195
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:314
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:367
+msgid "Comments"
+msgstr "Комментарии"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:81
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:196
+msgid "Tags"
+msgstr "Теги"
+
+# @ happenstance
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:86
+msgid "Advanced Options"
+msgstr "Дополнительные настройки"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:92
+msgid "Allow pagination"
+msgstr "Разрешить разбиение на страницы"
+
+# @ happenstance
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:99
+msgid "Number of posts to show:"
+msgstr "Номера записей:"
+
+# @ happenstance
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:108
+msgid "Show post thumbnails"
+msgstr "Показывать эскизы"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:115
+msgid "Show post date"
+msgstr "Показывать дату"
+
+# @ happenstance
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:122
+msgid "Show number of comments"
+msgstr "Показать количество комментариев"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:129
+msgid "Show post excerpt"
+msgstr "Показать отрывок"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:135
+msgid "Excerpt length (words):"
+msgstr "Длинна отрезка (слов):"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:148
+msgid "Number of comments on Comments Tab:"
+msgstr "Количество комментариев на вкладке комментариев:"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:157
+msgid "Show avatars on Comments Tab"
+msgstr "Показывать аватары"
+
+# @ happenstance
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:314
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:367
+msgid "No Comment"
+msgstr "Комментариев нет"
+
+# @ happenstance
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:314
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:367
+msgid "One Comment"
+msgstr "1 комментарий"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:426
+msgid "No comments yet."
+msgstr "Пока комментариев нет."
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:449
+msgid "No tags created."
+msgstr "Нет тегов."

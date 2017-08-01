@@ -1,0 +1,35 @@
+/* Color scheme Purple
+----------------------------------------------- */
+body a,
+body .post-entry .post-entry-headline a:hover,
+body #content .home-list-posts ul li a:hover,
+body .flexslider .slides li a:hover,
+body .sidebar-widget a,
+body #footer a,
+body .footer-signature .footer-signature-content a,
+#wrapper #container .menu-box .current-menu-item > a,
+#wrapper #container .menu-box .current-menu-ancestor > a,
+#wrapper #container .menu-box .current_page_item > a,
+#wrapper #container .menu-box .current-page-ancestor > a {
+  color: #d7b7fb;       
+}
+body .site-title a {
+  color: #2e1847;                   
+}
+body input[type="submit"],
+body input[type="reset"],
+body .custom-button,
+#wrapper #container .panel-row-style .origin-widget-button a,
+body #searchform .searchform-wrapper .send {
+  background-color: #a965f6;       
+}
+body input[type="submit"]:hover,
+body input[type="reset"]:hover,
+body .custom-button:hover,
+#wrapper #container .panel-row-style .origin-widget-button a:hover,
+body #searchform .send:hover {
+  background-color: #5c21a0;               
+}
+body h1, body h2, body h3, body h4, body h5, body h6, body #container .navigation .section-heading, body .info-box .info-box-headline {
+  color: #e5cffd;                                                                                                                                      
+}
